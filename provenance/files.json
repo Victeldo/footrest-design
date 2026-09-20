@@ -33,5 +33,10 @@
     "source": "outputs/reference/flatpack_footrest_v5_tpu_foot.stl",
     "repository_path": "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.stl",
     "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc"
+  },
+  {
+    "source": "outputs/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+    "repository_path": "versions/v6-calibration-inherited/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+    "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896"
   }
 ]
