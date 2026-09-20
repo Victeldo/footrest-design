@@ -97,3 +97,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Advanced to full prototype without proof of racking restraint. Later failures showed that easy fit and wraparound engagement were insufficient.
 
 [Artifacts and review](versions/v9-trial/REVIEW.md)
+
+## v9-full — V9 full assembly with backed rail roots
+
+**Change / why:** Kept coupon contact geometry; added backing at each T root, with roughly 183 mm³ net added per support. Released full support/brace and unchanged top/TPU parts.
+
+**CAD:** Recorded full topology/bed checks, four-joint assembly/removal and top installation, TPU nominal intersections, plus top/brace regressions. Root review was qualitative, not strength qualification.
+
+**Physical:** One support plus brace slid smoothly but swayed; user flagged this before printing second. Assistant expected the second support to constrain it. Complete assembly without TPU feet racked with all floor corners touching. Upper C channels slid upward off T rails; they did not spread/pop backward. User described the frame becoming a parallelogram.
+
+**Outcome:** FAILED assembled racking/retention. Earlier confidence in the second support was unsupported. Floor grip was not the identified cause. Keep top/supports for experiments, not as a rated structure.
+
+[Artifacts and review](versions/v9-full/REVIEW.md)

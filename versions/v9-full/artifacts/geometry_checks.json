@@ -1,0 +1,74 @@
+{
+  "support": {
+    "watertight": true,
+    "components": 1,
+    "print_size_mm": [
+      164.3,
+      230.0,
+      14.0
+    ],
+    "volume_mm3": 89827.721000985,
+    "file": "V9_support_PLA_PROTOTYPE.stl",
+    "sha256": "350c6d852ab66549e2a4e5955f47462585857801d0084aea886592bc11e2ff08"
+  },
+  "brace": {
+    "watertight": true,
+    "components": 1,
+    "print_size_mm": [
+      217.0,
+      180.0,
+      13.599999237060999
+    ],
+    "volume_mm3": 36181.035705687515,
+    "file": "V9_brace_PLA_PROTOTYPE.stl",
+    "sha256": "952b6ca3dbf4a30e22a829bf4802980d64cec2f52a67bb0142ad5aed0bef0d0d"
+  },
+  "top": {
+    "watertight": true,
+    "components": 1,
+    "print_size_mm": [
+      240.0,
+      170.0,
+      24.0
+    ],
+    "volume_mm3": 203285.94393818415,
+    "file": "V9_top_PLA_PROTOTYPE.stl",
+    "sha256": "706699e539870004e3c688cc97e2ace376ee9b4a3f993822688cdda897159dd0"
+  },
+  "foot_left": {
+    "watertight": true,
+    "components": 1,
+    "print_size_mm": [
+      29.799999237061,
+      11.099999237060999,
+      16.0
+    ],
+    "volume_mm3": 1867.042092523826,
+    "file": "V9_foot_left_TPU95A.stl",
+    "sha256": "0564932e8217865dc1c59952be1c6285b05a0f60d167e52a46f5836f2830eb76"
+  },
+  "foot_right": {
+    "watertight": true,
+    "components": 1,
+    "print_size_mm": [
+      29.8,
+      11.099999237060999,
+      16.0
+    ],
+    "volume_mm3": 1867.042192545119,
+    "file": "V9_foot_right_TPU95A.stl",
+    "sha256": "59fd5ec0566313c1a1988d3648b52849b775d0886ccec23744407921f84e13fe"
+  },
+  "zero_overlap_checks_mm3": {
+    "seated_support_brace": 0.0,
+    "top_seated": 0.0,
+    "vertical_release_0_25mm": 0.0,
+    "rear_approach_raised_0_25mm": 0.0,
+    "top_install_0_5mm": 0.0,
+    "feet_structural_interference": 1.5543122344752192e-15,
+    "brace_symmetric_difference_vs_tested_context": 0.0,
+    "top_symmetric_difference_vs_V7": 0.0
+  },
+  "nominal_root_backing_to_channel_front_gap_mm": 0.7,
+  "notes": "No FEA or load rating. Gravity seated; top does not prevent lift-off. Sampled rigid paths, not tolerance stack or deformable TPU simulation."
+}

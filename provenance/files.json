@@ -448,5 +448,85 @@
     "source": "outputs/footrest_V9_drop_in_trial.zip",
     "repository_path": "archives/v9-trial/footrest_V9_drop_in_trial.zip",
     "sha256": "61761100d4fa5874e7f76d3b4eeede0bebeba7e8dce20f70bc031caf9a4a3816"
+  },
+  {
+    "source": "outputs/V9_full/ENGINEERING_REVIEW.md",
+    "repository_path": "versions/v9-full/artifacts/ENGINEERING_REVIEW.md",
+    "sha256": "5575ddb9f6838c45238e023747f05f4d90c02fd6c455c42ec6e54deea5c4b31c"
+  },
+  {
+    "source": "outputs/V9_full/START_HERE.md",
+    "repository_path": "versions/v9-full/artifacts/START_HERE.md",
+    "sha256": "2410a951325eb36535cdbccd232c4ab8c30121e878dd0b653aada7cf062f1556"
+  },
+  {
+    "source": "outputs/V9_full/V9_brace_PLA_PROTOTYPE.stl",
+    "repository_path": "versions/v9-full/artifacts/V9_brace_PLA_PROTOTYPE.stl",
+    "sha256": "952b6ca3dbf4a30e22a829bf4802980d64cec2f52a67bb0142ad5aed0bef0d0d"
+  },
+  {
+    "source": "outputs/V9_full/V9_foot_left_TPU95A.stl",
+    "repository_path": "versions/v9-full/artifacts/V9_foot_left_TPU95A.stl",
+    "sha256": "0564932e8217865dc1c59952be1c6285b05a0f60d167e52a46f5836f2830eb76"
+  },
+  {
+    "source": "outputs/V9_full/V9_foot_right_TPU95A.stl",
+    "repository_path": "versions/v9-full/artifacts/V9_foot_right_TPU95A.stl",
+    "sha256": "59fd5ec0566313c1a1988d3648b52849b775d0886ccec23744407921f84e13fe"
+  },
+  {
+    "source": "outputs/V9_full/V9_full_assembly.png",
+    "repository_path": "versions/v9-full/artifacts/V9_full_assembly.png",
+    "sha256": "9595eb41e14f3db00289d9383532897b64df6ef1ccfb9449cd2b0efe22c1ee8c"
+  },
+  {
+    "source": "outputs/V9_full/V9_full_prototype.scad",
+    "repository_path": "versions/v9-full/artifacts/V9_full_prototype.scad",
+    "sha256": "e5bee799336f3252966835b9f5af32513e8d17f2e705714bba617f0e5018f26a"
+  },
+  {
+    "source": "outputs/V9_full/V9_support_PLA_PROTOTYPE.stl",
+    "repository_path": "versions/v9-full/artifacts/V9_support_PLA_PROTOTYPE.stl",
+    "sha256": "350c6d852ab66549e2a4e5955f47462585857801d0084aea886592bc11e2ff08"
+  },
+  {
+    "source": "outputs/V9_full/V9_top_PLA_PROTOTYPE.stl",
+    "repository_path": "versions/v9-full/artifacts/V9_top_PLA_PROTOTYPE.stl",
+    "sha256": "706699e539870004e3c688cc97e2ace376ee9b4a3f993822688cdda897159dd0"
+  },
+  {
+    "source": "outputs/V9_full/build_and_validate.py",
+    "repository_path": "versions/v9-full/artifacts/build_and_validate.py",
+    "sha256": "79795bf1f75efa141a09cc69d3e3e540785775f60be84ea1b2aadeb95ed46ead"
+  },
+  {
+    "source": "outputs/V9_full/geometry_checks.json",
+    "repository_path": "versions/v9-full/artifacts/geometry_checks.json",
+    "sha256": "225def16cf5425c812c8d66d580783f11229365245bb9a3ac1b979ea15ae9793"
+  },
+  {
+    "source": "outputs/V9_full/reference/footrest_V7.scad",
+    "repository_path": "versions/v9-full/artifacts/reference/footrest_V7.scad",
+    "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c"
+  },
+  {
+    "source": "outputs/V9_full/reference/tested_brace_context.stl",
+    "repository_path": "versions/v9-full/artifacts/reference/tested_brace_context.stl",
+    "sha256": "c25a3b09da02e1dc320382b89d74009e88e9210cb57f59bb2fb200d48714ea50"
+  },
+  {
+    "source": "outputs/V9_full/reference/unchanged_top.stl",
+    "repository_path": "versions/v9-full/artifacts/reference/unchanged_top.stl",
+    "sha256": "60ac1205e3277a7d0c4538069efc85ec9ac8149053f7d950fa89bc5290923dfd"
+  },
+  {
+    "source": "outputs/V9_full/requirements.txt",
+    "repository_path": "versions/v9-full/artifacts/requirements.txt",
+    "sha256": "26b88d787027b0e7ebf55c6c504e173190dff31754a66969eee4dff238d48d8c"
+  },
+  {
+    "source": "outputs/footrest_V9_full_prototype.zip",
+    "repository_path": "archives/v9-full/footrest_V9_full_prototype.zip",
+    "sha256": "9773a8a3940f4a23adaee64cb549c8e0e3c6010b8373b84d0ea270c89a596fab"
   }
 ]
