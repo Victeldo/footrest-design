@@ -528,5 +528,40 @@
     "source": "outputs/footrest_V9_full_prototype.zip",
     "repository_path": "archives/v9-full/footrest_V9_full_prototype.zip",
     "sha256": "9773a8a3940f4a23adaee64cb549c8e0e3c6010b8373b84d0ea270c89a596fab"
+  },
+  {
+    "source": "outputs/V9C_fit/START_HERE.md",
+    "repository_path": "versions/v9c-fit/artifacts/START_HERE.md",
+    "sha256": "12dc3abd9ea739efbfcf0ceb5dc29badf8219d7c98a9e1bf22fd8facc13fe13e"
+  },
+  {
+    "source": "outputs/V9C_fit/V9C_channel_0p15_PLA.stl",
+    "repository_path": "versions/v9c-fit/artifacts/V9C_channel_0p15_PLA.stl",
+    "sha256": "9c8a79b17e79248d16ba3d69a3b617a913c0da610a5e69019e71db4aecf3c793"
+  },
+  {
+    "source": "outputs/V9C_fit/V9C_channel_0p20_PLA.stl",
+    "repository_path": "versions/v9c-fit/artifacts/V9C_channel_0p20_PLA.stl",
+    "sha256": "648f39bf6bf022f1ef10d30aade987c50f0f51a20f306a1fb2b4007677c377a9"
+  },
+  {
+    "source": "outputs/V9C_fit/V9C_channel_fit.scad",
+    "repository_path": "versions/v9c-fit/artifacts/V9C_channel_fit.scad",
+    "sha256": "80076781f829171b8948b19b351d83f1ace591651460d721fc54d583cba3992f"
+  },
+  {
+    "source": "outputs/V9C_fit/geometry_checks.json",
+    "repository_path": "versions/v9c-fit/artifacts/geometry_checks.json",
+    "sha256": "9effaeb61b06ec566408b41b45b9292f49272c0fbca110041a9f767ff4951a97"
+  },
+  {
+    "source": "outputs/V9C_fit/validation_workspace.py",
+    "repository_path": "versions/v9c-fit/artifacts/validation_workspace.py",
+    "sha256": "6d96bb8c4aa346463d896d4725204224ec0ce1345fbedcd7062338515efce2e8"
+  },
+  {
+    "source": "outputs/footrest_V9C_channel_fit_tests.zip",
+    "repository_path": "archives/v9c-fit/footrest_V9C_channel_fit_tests.zip",
+    "sha256": "e244e2d9b178b3c32d5867dd0d06f9eb212ff206cbdf52744c20379596081a7b"
   }
 ]

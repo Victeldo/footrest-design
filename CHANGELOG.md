@@ -109,3 +109,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** FAILED assembled racking/retention. Earlier confidence in the second support was unsupported. Floor grip was not the identified cause. Keep top/supports for experiments, not as a rated structure.
 
 [Artifacts and review](versions/v9-full/REVIEW.md)
+
+## v9c-fit — V9C brace-side clearance coupons
+
+**Change / why:** Reduced only channel clearance to 0.20 and optional 0.15 mm per face, maintaining engagement, exterior, supports and top. No anti-lift stop added. Goal: distinguish excess clearance from the unrestricted release direction.
+
+**CAD:** Recorded original-0.30 reproduction, single-solid tighter exports, added-material-only check, and nominal approach/vertical paths against support rail positions. No revised full-frame test at this stage.
+
+**Physical:** User reported 0p15 felt pretty good and authorized full bracket V2. Separate 0p20 result and explicit all-four-rail/cycle confirmation were not supplied.
+
+**Outcome:** Local 0p15 fit selected. This did not prove racking or lift-off solved.
+
+[Artifacts and review](versions/v9c-fit/REVIEW.md)

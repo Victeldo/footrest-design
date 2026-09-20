@@ -1,7 +1,7 @@
-# Latest recorded stage: v9-full
+# Latest recorded stage: v9c-fit
 
-FAILED assembled racking/retention. Earlier confidence in the second support was unsupported. Floor grip was not the identified cause. Keep top/supports for experiments, not as a rated structure.
+Local 0p15 fit selected. This did not prove racking or lift-off solved.
 
-Latest physical evidence: One support plus brace slid smoothly but swayed; user flagged this before printing second. Assistant expected the second support to constrain it. Complete assembly without TPU feet racked with all floor corners touching. Upper C channels slid upward off T rails; they did not spread/pop backward. User described the frame becoming a parallelogram.
+Latest physical evidence: User reported 0p15 felt pretty good and authorized full bracket V2. Separate 0p20 result and explicit all-four-rail/cycle confirmation were not supplied.
 
 This history is reconstructed. Preserved artifacts are not automatically approved for printing or use. Full-assembly capacity is not established.
