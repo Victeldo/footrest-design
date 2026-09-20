@@ -1,0 +1,55 @@
+{
+  "rail_coupon": {
+    "connected_components": 1,
+    "watertight": true,
+    "volume_mm3": 4809.900000000001,
+    "print_size_mm": [
+      24.3,
+      32.0,
+      14.0
+    ]
+  },
+  "channel_coupon": {
+    "connected_components": 1,
+    "watertight": true,
+    "volume_mm3": 3672.80411956362,
+    "print_size_mm": [
+      21.0,
+      20.0,
+      13.599999237060999
+    ]
+  },
+  "support_context": {
+    "connected_components": 1,
+    "watertight": true,
+    "volume_mm3": 89644.72100098501,
+    "print_size_mm": [
+      164.3,
+      230.0,
+      14.0
+    ]
+  },
+  "brace_context": {
+    "connected_components": 1,
+    "watertight": true,
+    "volume_mm3": 36181.035705687515,
+    "print_size_mm": [
+      217.0,
+      180.0,
+      13.599999237060999
+    ]
+  },
+  "checks_mm3": {
+    "coupon_vertical_path": 0.0,
+    "coupon_rear_approach_raised": 0.0,
+    "full_vertical_path_top_removed": 0.0,
+    "full_rear_approach_top_removed": 0.0,
+    "assembled_top_interference": 0.0,
+    "top_install_path": 0.0,
+    "down_stop_0_5mm_overlap": 33.72005824568312,
+    "pull_back_1mm_overlap": 40.000521935008,
+    "sideways_1mm_overlap": 83.3014353036904,
+    "lift_21mm_with_top_overlap": 1.4210854715202004e-14
+  },
+  "coupon_solid_PLA_g": 10.51855310825889
+}

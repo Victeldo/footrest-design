@@ -85,3 +85,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Abandoned. Return to whole-assembly sequence and simpler connections rather than iterating an elaborate lock.
 
 [Artifacts and review](versions/v8b/REVIEW.md)
+
+## v9-trial — V9 drop-in T/C coupon and full-layout concept
+
+**Change / why:** Adopted four short T rails with C channels, fixed lower seating ledges and 20 mm vertical engagement. No latch. Beveled 45-degree shoulders for flat-print geometry; 0.30 mm per axis face. Narrowed ledge after detecting diagonal interference.
+
+**CAD:** Recorded connected coupon/support/brace meshes, full approach/vertical paths and top install checks. Existing top explicitly did not block lift-off. Strength, uplift and four-point physical fit remained unknown.
+
+**Physical:** Coupon slid easily and remained wrapped during X/Y motion, with some rocking. User highlighted looseness. This was a local fit test only.
+
+**Outcome:** Advanced to full prototype without proof of racking restraint. Later failures showed that easy fit and wraparound engagement were insufficient.
+
+[Artifacts and review](versions/v9-trial/REVIEW.md)

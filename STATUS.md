@@ -1,7 +1,7 @@
-# Latest recorded stage: v8b
+# Latest recorded stage: v9-trial
 
-Abandoned. Return to whole-assembly sequence and simpler connections rather than iterating an elaborate lock.
+Advanced to full prototype without proof of racking restraint. Later failures showed that easy fit and wraparound engagement were insufficient.
 
-Latest physical evidence: No physical V8B pass reported. User questioned increasing complexity; assistant agreed keys/posts/tethers were overcomplicating the problem.
+Latest physical evidence: Coupon slid easily and remained wrapped during X/Y motion, with some rocking. User highlighted looseness. This was a local fit test only.
 
 This history is reconstructed. Preserved artifacts are not automatically approved for printing or use. Full-assembly capacity is not established.

@@ -403,5 +403,50 @@
     "source": "outputs/footrest_V8B_tethered_joint_trial.zip",
     "repository_path": "archives/v8b/footrest_V8B_tethered_joint_trial.zip",
     "sha256": "b52f554624df20c9c1dae9206ac40fe793b237fc9e0eda365fcf3143b37fe55d"
+  },
+  {
+    "source": "outputs/V9/PRINT_FIRST_V9_channel_coupon.stl",
+    "repository_path": "versions/v9-trial/artifacts/PRINT_FIRST_V9_channel_coupon.stl",
+    "sha256": "497c76dac0a2174523a8b8924348045cd7db15870b1ddd005a609855ed2be691"
+  },
+  {
+    "source": "outputs/V9/PRINT_FIRST_V9_rail_coupon.stl",
+    "repository_path": "versions/v9-trial/artifacts/PRINT_FIRST_V9_rail_coupon.stl",
+    "sha256": "80d0147a100a3fcf31158af4ac5b131360e59eb80e11e5b010863f48e52b878c"
+  },
+  {
+    "source": "outputs/V9/START_HERE.md",
+    "repository_path": "versions/v9-trial/artifacts/START_HERE.md",
+    "sha256": "95a2010e3f2910a8ddc1265c2b4f703b6ed21af486a2428cdc36359add92c077"
+  },
+  {
+    "source": "outputs/V9/V9_design.png",
+    "repository_path": "versions/v9-trial/artifacts/V9_design.png",
+    "sha256": "15c53bdd2df8a69ec134ab182be4ee7408d408a0bbc6c90772a98c965fac117d"
+  },
+  {
+    "source": "outputs/V9/V9_drop_in_trial.scad",
+    "repository_path": "versions/v9-trial/artifacts/V9_drop_in_trial.scad",
+    "sha256": "78942903d4ccd20e92ad013672cee3495b8df82c7d6aa1394e28a15739cffcaf"
+  },
+  {
+    "source": "outputs/V9/geometry_checks.json",
+    "repository_path": "versions/v9-trial/artifacts/geometry_checks.json",
+    "sha256": "7b521a8560e7da5dbe567513ff10c5f2147cdafe0b82cc6b683c3eca5afb77f7"
+  },
+  {
+    "source": "outputs/V9/reference/footrest_V7.scad",
+    "repository_path": "versions/v9-trial/artifacts/reference/footrest_V7.scad",
+    "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c"
+  },
+  {
+    "source": "outputs/V9/validation_source_workspace.py",
+    "repository_path": "versions/v9-trial/artifacts/validation_source_workspace.py",
+    "sha256": "a73d308929736aa5a392a297c1f1eeac37b2cc509ace6b576220e3be27fb8b0b"
+  },
+  {
+    "source": "outputs/footrest_V9_drop_in_trial.zip",
+    "repository_path": "archives/v9-trial/footrest_V9_drop_in_trial.zip",
+    "sha256": "61761100d4fa5874e7f76d3b4eeede0bebeba7e8dce20f70bc031caf9a4a3816"
   }
 ]
