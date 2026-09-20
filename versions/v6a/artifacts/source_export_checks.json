@@ -1,0 +1,27 @@
+{
+  "compiler": "OpenSCAD 2021.01 CGAL",
+  "tolerance_note": "Differences under 0.01 mm^3 reflect source/STL numeric precision. Default source parameters only.",
+  "results": {
+    "foot": {
+      "scad_export_watertight": true,
+      "scad_export_components": 1,
+      "signed_volume_difference_mm3": -0.0004315975754707324,
+      "symmetric_solid_difference_mm3": 0.0,
+      "bounding_box_max_difference_mm": 7.629394538355427e-07
+    },
+    "support": {
+      "scad_export_watertight": true,
+      "scad_export_components": 1,
+      "signed_volume_difference_mm3": -0.006423520128009841,
+      "symmetric_solid_difference_mm3": 0.0,
+      "bounding_box_max_difference_mm": 1.9073486257070726e-07
+    },
+    "coupon": {
+      "scad_export_watertight": true,
+      "scad_export_components": 1,
+      "signed_volume_difference_mm3": -0.0016587117420385766,
+      "symmetric_solid_difference_mm3": 0.0016695122158125741,
+      "bounding_box_max_difference_mm": 1.9073486257070726e-07
+    }
+  }
+}

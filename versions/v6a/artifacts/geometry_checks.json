@@ -1,0 +1,207 @@
+{
+  "baseline": {
+    "flatpack_footrest_v3_top.stl": {
+      "watertight": true,
+      "components": 5,
+      "volume_mm3": 121160.39743399828,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          -2.0
+        ],
+        [
+          230.0,
+          170.0,
+          5.0
+        ]
+      ],
+      "sha256": "0579af55d21edb7f3261c8097a4fe547819cc58d56507302dd97ca5b7ed8f747"
+    },
+    "flatpack_footrest_v5_light_support.stl": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 80174.90223914497,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          150.0,
+          241.0,
+          7.0
+        ]
+      ],
+      "sha256": "a4756a7711d76f6881d207c0cae27e37098f4705136ef5bfbea60a8e7f350fd6"
+    },
+    "flatpack_footrest_v5_tpu_foot.stl": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 1518.0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          30.0,
+          10.0,
+          10.5
+        ]
+      ],
+      "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc"
+    },
+    "footrest_tolerance_coupon_v6_7mm_sockets_only.stl": {
+      "watertight": false,
+      "components": 24,
+      "volume_mm3": 5589.579885549545,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          44.599998474121094,
+          27.299999237060547,
+          9.0
+        ]
+      ],
+      "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896"
+    }
+  },
+  "new": {
+    "support": {
+      "volume_mm3": 80419.10866266518,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          150.0,
+          241.0,
+          9.199999809265137
+        ]
+      ],
+      "extent_mm": [
+        150.0,
+        241.0,
+        9.199999809265137
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "triangles": 252
+    },
+    "coupon": {
+      "volume_mm3": 3821.2898545617422,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          32.0,
+          22.0,
+          9.199999809265137
+        ]
+      ],
+      "extent_mm": [
+        32.0,
+        22.0,
+        9.199999809265137
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "triangles": 80,
+      "solid_PLA_mass_g_at_1p24": 4.738399420502137
+    },
+    "foot": {
+      "volume_mm3": 1867.0425549817082,
+      "bounds_mm": [
+        [
+          -1.7999999523162842,
+          -2.0,
+          -2.049999952316284
+        ],
+        [
+          28.0,
+          14.0,
+          9.050000190734863
+        ]
+      ],
+      "extent_mm": [
+        29.799999952316284,
+        16.0,
+        11.100000143051147
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "triangles": 98,
+      "solid_TPU_mass_g_at_assumed_1p20": 2.240451
+    },
+    "foot_print": {
+      "volume_mm3": 1867.0425241214016,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          29.799999237060547,
+          11.100000381469727,
+          16.0
+        ]
+      ],
+      "extent_mm": [
+        29.799999237060547,
+        11.100000381469727,
+        16.0
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "triangles": 98
+    }
+  },
+  "checks": {
+    "original_material_removed_mm3": 0.0,
+    "added_material_mm3": 244.19999999999993,
+    "foot_support_intersection_mm3": 0.0,
+    "right_foot_support_intersection_mm3": 0.0,
+    "feet_intersection_mm3": 0.0,
+    "coupon_foot_intersection_mm3": 0.0,
+    "tab_symmetric_difference_mm3": 0.0,
+    "rigid_motion_collision_mm3": {
+      "down_1mm": 13.5,
+      "along_rail_plus_1mm": 56.835,
+      "along_rail_minus_1mm": 9.58500000000001,
+      "across_plus_1mm": 189.0,
+      "across_minus_1mm": 204.4015634546821
+    },
+    "insertion_rigid_overlap_mm3": {
+      "0": 0.0,
+      "1": 13.5,
+      "2": 31.499999999999993,
+      "4": 58.94620833333337,
+      "6": 59.66100000000002,
+      "8": 33.23229166666667,
+      "10": 2.8125,
+      "12": 0.0,
+      "14": 0.0
+    },
+    "top_support_intersection_mm3": 0.0,
+    "support_to_support_intersection_mm3": 0.0,
+    "assembled_uncompressed_height_mm": 243,
+    "sole_thickness_mm": 2
+  }
+}

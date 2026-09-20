@@ -38,5 +38,95 @@
     "source": "outputs/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
     "repository_path": "versions/v6-calibration-inherited/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
     "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/V6A_PLA_corner_coupon.stl",
+    "repository_path": "versions/v6a/artifacts/V6A_PLA_corner_coupon.stl",
+    "sha256": "aa01e8b522e93a5a56d972e36af36763d248f70a46f9f86fa3d6c12d38ec693b"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/V6A_README.md",
+    "repository_path": "versions/v6a/artifacts/V6A_README.md",
+    "sha256": "337ce84e10868816c59f9dcf564200cf8ade2bfeb32451ad8420cb452052b4f1"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/V6A_TPU95A_test_foot.stl",
+    "repository_path": "versions/v6a/artifacts/V6A_TPU95A_test_foot.stl",
+    "sha256": "56917635a2fbe97ea16b9986873e2602a7e9a6572372c7a100a8bf3173746831"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/V6A_interface_review.png",
+    "repository_path": "versions/v6a/artifacts/V6A_interface_review.png",
+    "sha256": "d756d7fb25c0e94b6bd47937ca7601eb1213af97c2dc6ed0b35315b7acf6311a"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/V6A_retained_foot.scad",
+    "repository_path": "versions/v6a/artifacts/V6A_retained_foot.scad",
+    "sha256": "a5ec03a8a5cd99695f92c4b7ca14561362acc1ef3d8869ad53dd61fbcce09b7e"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/geometry_checks.json",
+    "repository_path": "versions/v6a/artifacts/geometry_checks.json",
+    "sha256": "9b4c00836db5ec1dff911af2dd1a5864e63d84c2f266b604b663724197d3a885"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/HANDOFF.md",
+    "repository_path": "versions/v6a/artifacts/reference/HANDOFF.md",
+    "sha256": "efd7c40bfed86487a75da194037c882471cd6b1a78ee7fc11286b8feec9c576c"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v3.scad",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v3.scad",
+    "sha256": "469ffdb1f954afd76d474efd78ae71f83051a2d38959813bc58f67009d67e1ca"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v3_top.stl",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v3_top.stl",
+    "sha256": "0579af55d21edb7f3261c8097a4fe547819cc58d56507302dd97ca5b7ed8f747"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_light_support.scad",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.scad",
+    "sha256": "6731e6935240899044c472f3464338c4f6417a0f6fc7316cdb4dc298ec55aa12"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_light_support.stl",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.stl",
+    "sha256": "a4756a7711d76f6881d207c0cae27e37098f4705136ef5bfbea60a8e7f350fd6"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_tpu_foot.scad",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.scad",
+    "sha256": "2879320ad62dbcb1d32f46926698e9673be44d353884faaae50a3cce581096da"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_tpu_foot.stl",
+    "repository_path": "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.stl",
+    "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+    "repository_path": "versions/v6a/artifacts/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+    "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/requirements.txt",
+    "repository_path": "versions/v6a/artifacts/requirements.txt",
+    "sha256": "879951ef3bedb129d5f015c6621fbeb892b10d0510cc15ffbbf37bd610713d32"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/source_export_checks.json",
+    "repository_path": "versions/v6a/artifacts/source_export_checks.json",
+    "sha256": "e5d34baadb349cfc1b1b998e7f679f9ea075095ff97bf9c90dffdb5bdc3b57c9"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial/validate_and_build.py",
+    "repository_path": "versions/v6a/artifacts/validate_and_build.py",
+    "sha256": "4694eef70c75e69aeffcb478e48ddd4b5215120b39ea8e20be4ae939299024e3"
+  },
+  {
+    "source": "outputs/footrest_V6A_trial.zip",
+    "repository_path": "archives/v6a/footrest_V6A_trial.zip",
+    "sha256": "0319e93d1f435905338f6bd56bfd5a1887a81680f2716edf3a613dd83272c46a"
   }
 ]

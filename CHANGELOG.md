@@ -37,3 +37,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Preserve calibrated top interface. Do not assume it transfers to differently oriented rear joints or TPU interfaces.
 
 [Artifacts and review](versions/v6-calibration-inherited/REVIEW.md)
+
+## v6a — V6A mechanically retained TPU foot
+
+**Change / why:** Added external PLA corner catches and mating TPU window shoes, keeping the bottom rail intact. Replaced friction-only retention with an intentional peel-to-release interface.
+
+**CAD:** Recorded component/watertightness checks, material-preservation booleans, nominal contacts, rigid blocking checks and independent SCAD export comparison. Found inherited disconnected top bosses and 243 mm provisional height with sole.
+
+**Physical:** User printed shoe and PLA key/coupon, reported it fit and passed the tests. Small internal gap opposite the key slot was reported. Exact forces and per-test cycle counts were not supplied.
+
+**Outcome:** Local TPU interface accepted for reuse; not full-structure validation. Next reconcile top/height and across-width bracing.
+
+[Artifacts and review](versions/v6a/REVIEW.md)

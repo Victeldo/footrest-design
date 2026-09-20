@@ -1,7 +1,7 @@
-# Latest recorded stage: v6-calibration-inherited
+# Latest recorded stage: v6a
 
-Preserve calibrated top interface. Do not assume it transfers to differently oriented rear joints or TPU interfaces.
+Local TPU interface accepted for reuse; not full-structure validation. Next reconcile top/height and across-width bracing.
 
-Latest physical evidence: Handoff: +0.30 mm total still wobbly; +0.10 and +0.20 had similar low true play; +0.10 slightly harder to dislodge and selected. +0.50 previously too loose.
+Latest physical evidence: User printed shoe and PLA key/coupon, reported it fit and passed the tests. Small internal gap opposite the key slot was reported. Exact forces and per-test cycle counts were not supplied.
 
 This history is reconstructed. Preserved artifacts are not automatically approved for printing or use. Full-assembly capacity is not established.
