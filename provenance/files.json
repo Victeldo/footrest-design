@@ -13,5 +13,25 @@
     "source": "outputs/reference/HANDOFF.md",
     "repository_path": "versions/v3-inherited/HANDOFF.md",
     "sha256": "efd7c40bfed86487a75da194037c882471cd6b1a78ee7fc11286b8feec9c576c"
+  },
+  {
+    "source": "outputs/reference/flatpack_footrest_v5_light_support.scad",
+    "repository_path": "versions/v5-inherited/flatpack_footrest_v5_light_support.scad",
+    "sha256": "6731e6935240899044c472f3464338c4f6417a0f6fc7316cdb4dc298ec55aa12"
+  },
+  {
+    "source": "outputs/reference/flatpack_footrest_v5_light_support.stl",
+    "repository_path": "versions/v5-inherited/flatpack_footrest_v5_light_support.stl",
+    "sha256": "a4756a7711d76f6881d207c0cae27e37098f4705136ef5bfbea60a8e7f350fd6"
+  },
+  {
+    "source": "outputs/reference/flatpack_footrest_v5_tpu_foot.scad",
+    "repository_path": "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.scad",
+    "sha256": "2879320ad62dbcb1d32f46926698e9673be44d353884faaae50a3cce581096da"
+  },
+  {
+    "source": "outputs/reference/flatpack_footrest_v5_tpu_foot.stl",
+    "repository_path": "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.stl",
+    "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc"
   }
 ]
