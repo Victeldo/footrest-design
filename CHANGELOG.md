@@ -61,3 +61,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Rear connection failed packability/removal. Top and TPU interfaces subsequently retained. Do not reuse tight rear fit; geometry validity did not establish removability.
 
 [Artifacts and review](versions/v7/REVIEW.md)
+
+## v8 — V8 sliding tongue and loose quarter-turn keeper
+
+**Change / why:** Separated structural sliding tongue (0.30 mm per face) from quarter-turn withdrawal keeper. Added lift-to-turn locating posts and exposed grip to avoid forceful disassembly.
+
+**CAD:** Recorded connected watertight meshes, sampled insertion/lift/rotation/extraction paths and deliberate blocking collisions. No load validation.
+
+**Physical:** No successful printed V8 trial reported. User flagged four loose keys as a loss/usability issue; print was canceled as the design changed.
+
+**Outcome:** Abandoned before physical validation. Added operations/loose parts were unacceptable for packing.
+
+[Artifacts and review](versions/v8/REVIEW.md)

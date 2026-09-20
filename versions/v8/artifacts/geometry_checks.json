@@ -1,0 +1,67 @@
+{
+  "receiver": {
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "volume_mm3": 3618.959744568023,
+    "print_bounds_mm": [
+      [
+        0.0,
+        0.0,
+        7.62939e-07
+      ],
+      [
+        18.0,
+        20.6,
+        24.6
+      ]
+    ]
+  },
+  "tongue": {
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "volume_mm3": 5945.760128173752,
+    "print_bounds_mm": [
+      [
+        0.0,
+        -7.62939e-07,
+        0.0
+      ],
+      [
+        28.0,
+        18.0,
+        24.0
+      ]
+    ]
+  },
+  "keeper": {
+    "watertight": true,
+    "winding": true,
+    "components": 1,
+    "volume_mm3": 1349.9626677549252,
+    "print_bounds_mm": [
+      [
+        3.8147e-07,
+        0.0,
+        0.0
+      ],
+      [
+        27.9,
+        24.0,
+        6.0
+      ]
+    ]
+  },
+  "path_checks": {
+    "tongue_insertion_max_overlap_mm3": 0.0,
+    "locked_pair_overlap_mm3": 0.0,
+    "lift_max_overlap_mm3": 0.0,
+    "turn_max_overlap_mm3": 0.0,
+    "keeper_withdrawal_max_overlap_mm3": 0.0,
+    "withdrawal_block_at_1mm_mm3": 22.012588406948268,
+    "locked_lift_block_at_3mm_mm3": 15.0,
+    "seated_turn_block_at_15deg_mm3": 22.595596725069996
+  },
+  "solid_PLA_mass_g_at_1_24": 13.534206350215909
+}

@@ -303,5 +303,50 @@
     "source": "outputs/V7_joint_coupons.zip",
     "repository_path": "archives/v7/V7_joint_coupons.zip",
     "sha256": "a59f9fdb2e45088c52d435f7c86ea7df4cdf3721780c06ec52bc3c50108ec4ea"
+  },
+  {
+    "source": "outputs/V8/START_HERE.md",
+    "repository_path": "versions/v8/artifacts/START_HERE.md",
+    "sha256": "372878f9ac50c534eb81a97c512bc299d6221f5d57c0e4b8b7261ca151ecff9c"
+  },
+  {
+    "source": "outputs/V8/V8_rear_joint_trial.scad",
+    "repository_path": "versions/v8/artifacts/V8_rear_joint_trial.scad",
+    "sha256": "c00a486342b71c1144506ca15627189ec59afa9713a7293c15576cc2c864cb34"
+  },
+  {
+    "source": "outputs/V8/V8_release_sequence.png",
+    "repository_path": "versions/v8/artifacts/V8_release_sequence.png",
+    "sha256": "a71025d8c9e2fea183b6567c3b0e4ed8b65d3971b32f63b9a7d699079328c70c"
+  },
+  {
+    "source": "outputs/V8/V8_trial_keeper.stl",
+    "repository_path": "versions/v8/artifacts/V8_trial_keeper.stl",
+    "sha256": "84139ddea8378b806c0ab9cf575696cc37c717fe9178507b6afc0512b7ec906f"
+  },
+  {
+    "source": "outputs/V8/V8_trial_receiver.stl",
+    "repository_path": "versions/v8/artifacts/V8_trial_receiver.stl",
+    "sha256": "55f8bcc2c185cc115e52c8f9fc0ce9f689eff9379c45297f6d7903e506c26ab9"
+  },
+  {
+    "source": "outputs/V8/V8_trial_tongue.stl",
+    "repository_path": "versions/v8/artifacts/V8_trial_tongue.stl",
+    "sha256": "20413ead970d376f96b69056c04da37b9c980c243aeed276c599f79e4247051f"
+  },
+  {
+    "source": "outputs/V8/geometry_checks.json",
+    "repository_path": "versions/v8/artifacts/geometry_checks.json",
+    "sha256": "dddd9e553473eeb582de9670b65be4e97d40b2e57688a98eed3bf77552bd5595"
+  },
+  {
+    "source": "outputs/V8/validate_trial.py",
+    "repository_path": "versions/v8/artifacts/validate_trial.py",
+    "sha256": "39c0eab4d8f69ac4bd9184eff027455d659f1c254cb0c574fc587c8fe16e6725"
+  },
+  {
+    "source": "outputs/footrest_V8_joint_trial.zip",
+    "repository_path": "archives/v8/footrest_V8_joint_trial.zip",
+    "sha256": "5b4be1b73be31c3a8b2ebcff1cd2937b07a259b3f3bdd5b4a7b96fe6842a8f51"
   }
 ]
