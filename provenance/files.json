@@ -1,0 +1,17 @@
+[
+  {
+    "source": "outputs/reference/flatpack_footrest_v3.scad",
+    "repository_path": "versions/v3-inherited/flatpack_footrest_v3.scad",
+    "sha256": "469ffdb1f954afd76d474efd78ae71f83051a2d38959813bc58f67009d67e1ca"
+  },
+  {
+    "source": "outputs/reference/flatpack_footrest_v3_top.stl",
+    "repository_path": "versions/v3-inherited/flatpack_footrest_v3_top.stl",
+    "sha256": "0579af55d21edb7f3261c8097a4fe547819cc58d56507302dd97ca5b7ed8f747"
+  },
+  {
+    "source": "outputs/reference/HANDOFF.md",
+    "repository_path": "versions/v3-inherited/HANDOFF.md",
+    "sha256": "efd7c40bfed86487a75da194037c882471cd6b1a78ee7fc11286b8feec9c576c"
+  }
+]
