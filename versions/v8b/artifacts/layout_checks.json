@@ -1,0 +1,38 @@
+{
+  "provisional_only": true,
+  "checks": [
+    {
+      "receiver_origin_mm": [
+        25.55,
+        168,
+        33
+      ],
+      "keeper_vs_existing_top_and_supports_max_overlap_mm3": 0.0
+    },
+    {
+      "receiver_origin_mm": [
+        25.55,
+        168,
+        193
+      ],
+      "keeper_vs_existing_top_and_supports_max_overlap_mm3": 0.0
+    },
+    {
+      "receiver_origin_mm": [
+        221.55,
+        168,
+        33
+      ],
+      "keeper_vs_existing_top_and_supports_max_overlap_mm3": 0.0
+    },
+    {
+      "receiver_origin_mm": [
+        221.55,
+        168,
+        193
+      ],
+      "keeper_vs_existing_top_and_supports_max_overlap_mm3": 0.0
+    }
+  ],
+  "limits": "No tether sweep or human finger simulation. Receiver-to-rail webs and new brace not yet designed or load validated. Retired V7 sockets omitted; unchanged core and rail stiffeners retained."
+}

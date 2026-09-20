@@ -73,3 +73,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Abandoned before physical validation. Added operations/loose parts were unacceptable for packing.
 
 [Artifacts and review](versions/v8/REVIEW.md)
+
+## v8b — V8B tether-eyelet keeper trial
+
+**Change / why:** Added receiver/keeper eyelets for cord retention. Initially considered TPU tether, but actual deliverable assumed cord; no TPU tether attachment was validated. Provisional rearward locations studied for key access.
+
+**CAD:** Recorded joint mesh/path checks and four provisional key-clearance paths against top/support core. Attachment webs, full brace integration, tether motion and human access were not complete.
+
+**Physical:** No physical V8B pass reported. User questioned increasing complexity; assistant agreed keys/posts/tethers were overcomplicating the problem.
+
+**Outcome:** Abandoned. Return to whole-assembly sequence and simpler connections rather than iterating an elaborate lock.
+
+[Artifacts and review](versions/v8b/REVIEW.md)

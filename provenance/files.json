@@ -348,5 +348,60 @@
     "source": "outputs/footrest_V8_joint_trial.zip",
     "repository_path": "archives/v8/footrest_V8_joint_trial.zip",
     "sha256": "5b4be1b73be31c3a8b2ebcff1cd2937b07a259b3f3bdd5b4a7b96fe6842a8f51"
+  },
+  {
+    "source": "outputs/V8B/START_HERE.md",
+    "repository_path": "versions/v8b/artifacts/START_HERE.md",
+    "sha256": "835cfb565159fdcb1b0b3bfa35da7382fce829d535ac001c2313d447a96bddee"
+  },
+  {
+    "source": "outputs/V8B/V8B_access_study.png",
+    "repository_path": "versions/v8b/artifacts/V8B_access_study.png",
+    "sha256": "bce88d8d60c58c60dd2bbac4341eebac64c590b5aba0f3fb1ac6a04f7e8d3233"
+  },
+  {
+    "source": "outputs/V8B/V8B_rear_joint_trial.scad",
+    "repository_path": "versions/v8b/artifacts/V8B_rear_joint_trial.scad",
+    "sha256": "8e403934f42daa4a099fb2d2210fcf66f8f38fc916a60387df76080e051d2b05"
+  },
+  {
+    "source": "outputs/V8B/V8B_release_sequence.png",
+    "repository_path": "versions/v8b/artifacts/V8B_release_sequence.png",
+    "sha256": "88d0f6e14f46a57e68058ca3a040efe2a5e6b16afce11743a41629d7d8d1bd52"
+  },
+  {
+    "source": "outputs/V8B/V8B_trial_keeper.stl",
+    "repository_path": "versions/v8b/artifacts/V8B_trial_keeper.stl",
+    "sha256": "888c802e9a3281a39315f83e2f0c78035559736d69b02211e39d803a19d328d6"
+  },
+  {
+    "source": "outputs/V8B/V8B_trial_receiver.stl",
+    "repository_path": "versions/v8b/artifacts/V8B_trial_receiver.stl",
+    "sha256": "cb205e7bb6449ad60281271e4c3271742878634ac3f343fff4bcbffddb62abc8"
+  },
+  {
+    "source": "outputs/V8B/V8B_trial_tongue.stl",
+    "repository_path": "versions/v8b/artifacts/V8B_trial_tongue.stl",
+    "sha256": "20413ead970d376f96b69056c04da37b9c980c243aeed276c599f79e4247051f"
+  },
+  {
+    "source": "outputs/V8B/geometry_checks.json",
+    "repository_path": "versions/v8b/artifacts/geometry_checks.json",
+    "sha256": "5a65f1233223cf4dc20da3f56b4fca675a05280bbf4493da4b28e63a45c60066"
+  },
+  {
+    "source": "outputs/V8B/layout_checks.json",
+    "repository_path": "versions/v8b/artifacts/layout_checks.json",
+    "sha256": "6ae32e4bd70dded4938729c9767e4fbad9c641004aa325403354d9a967cdf20f"
+  },
+  {
+    "source": "outputs/V8B/validate_trial.py",
+    "repository_path": "versions/v8b/artifacts/validate_trial.py",
+    "sha256": "88bb9b7326a1e7bfd6fcbbef3ef187cb05ddc3e00f2c9b77b0c39ca2bc09543d"
+  },
+  {
+    "source": "outputs/footrest_V8B_tethered_joint_trial.zip",
+    "repository_path": "archives/v8b/footrest_V8B_tethered_joint_trial.zip",
+    "sha256": "b52f554624df20c9c1dae9206ac40fe793b237fc9e0eda365fcf3143b37fe55d"
   }
 ]

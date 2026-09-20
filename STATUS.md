@@ -1,7 +1,7 @@
-# Latest recorded stage: v8
+# Latest recorded stage: v8b
 
-Abandoned before physical validation. Added operations/loose parts were unacceptable for packing.
+Abandoned. Return to whole-assembly sequence and simpler connections rather than iterating an elaborate lock.
 
-Latest physical evidence: No successful printed V8 trial reported. User flagged four loose keys as a loss/usability issue; print was canceled as the design changed.
+Latest physical evidence: No physical V8B pass reported. User questioned increasing complexity; assistant agreed keys/posts/tethers were overcomplicating the problem.
 
 This history is reconstructed. Preserved artifacts are not automatically approved for printing or use. Full-assembly capacity is not established.
