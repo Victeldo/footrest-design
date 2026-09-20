@@ -563,5 +563,35 @@
     "source": "outputs/footrest_V9C_channel_fit_tests.zip",
     "repository_path": "archives/v9c-fit/footrest_V9C_channel_fit_tests.zip",
     "sha256": "e244e2d9b178b3c32d5867dd0d06f9eb212ff206cbdf52744c20379596081a7b"
+  },
+  {
+    "source": "outputs/V9_bracket_V2/PRINT_V9_bracket_V2_0p15_PLA.stl",
+    "repository_path": "versions/v9-bracket-v2/artifacts/PRINT_V9_bracket_V2_0p15_PLA.stl",
+    "sha256": "04e9d5b6be3cef4e2be5028b5b6dd3c6af06161c6994d2f2294bc8350119366b"
+  },
+  {
+    "source": "outputs/V9_bracket_V2/START_HERE.md",
+    "repository_path": "versions/v9-bracket-v2/artifacts/START_HERE.md",
+    "sha256": "5fb0d40c8f99bda8135775ffad1d02e6dc7ae9dc7f14bab7bf3f6a892a5f81cd"
+  },
+  {
+    "source": "outputs/V9_bracket_V2/V9_bracket_V2_0p15.scad",
+    "repository_path": "versions/v9-bracket-v2/artifacts/V9_bracket_V2_0p15.scad",
+    "sha256": "4140d0e2ae18466708b9b063c091e8f1920bae56fb7030f8a8af165d2692b402"
+  },
+  {
+    "source": "outputs/V9_bracket_V2/geometry_checks.json",
+    "repository_path": "versions/v9-bracket-v2/artifacts/geometry_checks.json",
+    "sha256": "3c87cbfe873749b76dd8a34dcb5afbe88c8458e600720c891d3e2da88bd31657"
+  },
+  {
+    "source": "outputs/V9_bracket_V2/validation_workspace.py",
+    "repository_path": "versions/v9-bracket-v2/artifacts/validation_workspace.py",
+    "sha256": "bf5275f7316846ac57d69a868fcd9ac657cbb47c49fc5f81a84ee0f4af6b52af"
+  },
+  {
+    "source": "outputs/footrest_V9_bracket_V2_0p15.zip",
+    "repository_path": "archives/v9-bracket-v2/footrest_V9_bracket_V2_0p15.zip",
+    "sha256": "6410814e1808173f1109b6839a487ffb6d984d774194efc0af8a9be3373b70bc"
   }
 ]

@@ -121,3 +121,15 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** Local 0p15 fit selected. This did not prove racking or lift-off solved.
 
 [Artifacts and review](versions/v9c-fit/REVIEW.md)
+
+## v9-bracket-v2 — V9 bracket V2 with four 0p15 channels
+
+**Change / why:** Applied tested 0.15 mm fit to all four brace channels; X, spacing, top and supports unchanged. No anti-lift feature. About 0.53 g solid PLA added over prior brace.
+
+**CAD:** Recorded one watertight component, A1 envelope, nominal assembly/removal/top-install checks. Regression against old brace plus four tighter coupons differed 0.00994 mm³ within documented 0.02 mm³ numerical tolerance.
+
+**Physical:** User printed V2: more stable, but during left/right racking the upper channels again slid up off the T rails. User emphasized that the brace still does not prevent racking.
+
+**Outcome:** FAILED full-frame racking/retention despite improved local fit. Further tightening is not the established fix. Open question: when does vertical channel motion begin relative to frame racking? A proposed anti-lift feature must carry load and constrain racking, not merely catch a detached brace.
+
+[Artifacts and review](versions/v9-bracket-v2/REVIEW.md)

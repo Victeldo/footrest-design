@@ -18,3 +18,5 @@ Read [STATUS.md](STATUS.md) before using any print files, then [CHANGELOG.md](CH
 `git log --oneline --reverse` shows the sequence. `git show <tag>` shows a stage's import and review. `git diff <old-tag> <new-tag> -- CHANGELOG.md` shows the recorded transition. Geometry snapshots have different paths: use `git diff --no-index <old-source.scad> <new-source.scad>` for a direct source comparison (exit 1 means differences).
 
 Archived scripts vary in portability. Scripts named `validation_workspace.py` rely on original workspace paths. Do not assume relocating them makes them runnable. Preserved reference meshes and raw validation outputs are evidence, not additional parts to print.
+
+Import audit: `provenance/output_coverage.json` accounts for every original output file by hash, including duplicate download folders. Original handoff files were also hash-verified. Large tool runtimes/caches and unrelated workspace scratch are intentionally excluded.

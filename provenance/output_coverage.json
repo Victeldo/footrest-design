@@ -1,0 +1,1035 @@
+{
+  "scope": "All non-.DS_Store files under the original workspace outputs directory at import time; duplicates mapped by content hash. Original handoff directory also hash-verified.",
+  "original_files_accounted_for": 141,
+  "unique_content_hashes": 100,
+  "files": [
+    {
+      "original_path": "outputs/V6A_PLA_corner_coupon.stl",
+      "sha256": "aa01e8b522e93a5a56d972e36af36763d248f70a46f9f86fa3d6c12d38ec693b",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_PLA_corner_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V6A_README.md",
+      "sha256": "337ce84e10868816c59f9dcf564200cf8ade2bfeb32451ad8420cb452052b4f1",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_README.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V6A_TPU95A_test_foot.stl",
+      "sha256": "56917635a2fbe97ea16b9986873e2602a7e9a6572372c7a100a8bf3173746831",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_TPU95A_test_foot.stl",
+        "versions/v7/artifacts/reference/V6A_tested_foot.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V6A_interface_review.png",
+      "sha256": "d756d7fb25c0e94b6bd47937ca7601eb1213af97c2dc6ed0b35315b7acf6311a",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_interface_review.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V6A_retained_foot.scad",
+      "sha256": "a5ec03a8a5cd99695f92c4b7ca14561362acc1ef3d8869ad53dd61fbcce09b7e",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_retained_foot.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/ENGINEERING_NOTES.md",
+      "sha256": "0bb77a0e8235636401d96d408aa9db2e490b873beb05182940fe025cef11d164",
+      "preserved_at": [
+        "versions/v7/artifacts/ENGINEERING_NOTES.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/PRINT_FIRST_brace_socket_coupon.stl",
+      "sha256": "2cad2da1149c57f7c830241f82012f42a200b0d96bd9602a83f73b2147a543b6",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_brace_socket_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_brace_socket_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/PRINT_FIRST_brace_tab_coupon.stl",
+      "sha256": "5eb66e7fa1d5192313e39ed695c1ac51737e97792f51acfd5b8ea4449f12f480",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_brace_tab_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_brace_tab_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/PRINT_FIRST_top_socket_coupon.stl",
+      "sha256": "571a5105c68c85e6763a9ae7623e9554cc587f68bd40dc3d27d787ac0bc18a54",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_top_socket_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_top_socket_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/PRINT_FIRST_top_tab_coupon.stl",
+      "sha256": "c2b565fb42999299551d16c0201fae3e33d6f3d1e1b1a424a83966cc5f1f5f9e",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_top_tab_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_top_tab_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/START_HERE.md",
+      "sha256": "d9d26e487a5b38b8ae799868db70007012f2f2c9acbfd95db520ed40159e00fc",
+      "preserved_at": [
+        "versions/v7/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V6A_mirrored_foot_right.stl",
+      "sha256": "ce26609b33fa42f1c72bfc5922decb12d900947ef71d30ce1c3b624801e6a7b5",
+      "preserved_at": [
+        "versions/v7/artifacts/V6A_mirrored_foot_right.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V6A_unchanged_foot_left.stl",
+      "sha256": "0d255930e3009e5d34934935c9deadb59ffe0187e2c02322b56afda1f601117a",
+      "preserved_at": [
+        "versions/v7/artifacts/V6A_unchanged_foot_left.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_assembly_REFERENCE.glb",
+      "sha256": "7f176291ebfd6ab7c6470decd01dc276849f0edf7b49e68ae90184c26067416c",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_assembly_REFERENCE.glb"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_coupon_assemblies.png",
+      "sha256": "c224f03ff23b03cd5f010a1fe73d1fb097a9d8540da8bb592cd9df653ceb317e",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_coupon_assemblies.png",
+        "versions/v7/joint_coupons/V7_coupon_assemblies.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_design_review.png",
+      "sha256": "6afb277e49253bb2312bf2632aa2d79ab5de6d8a0bec0c9f1196b126df13412b",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_design_review.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_rear_brace_PROTOTYPE.stl",
+      "sha256": "2c4cccd58909e5935f4574982fe25b477a055de65dd30ed31b6cdecffe0cea9c",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_rear_brace_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_support_PROTOTYPE.stl",
+      "sha256": "55d114572683436b10616ff9b43d7c6deb71fa418d2f33e55e3d8dcbfd9f0d53",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_support_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_support_orientation.png",
+      "sha256": "6fb0f76da8b62e282e161aaff08a3222e13c44403abe519cfb26ec789fe46f9b",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_support_orientation.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/V7_top_PROTOTYPE.stl",
+      "sha256": "650b2830dcae3fec120f60df5ab5ed10a2346c5dca4414a92f309c96b8adb8d6",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_top_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/build_and_validate.py",
+      "sha256": "f27ee0629e43a888554dce986132f7e3ef83207642985932e74a7c824903ab73",
+      "preserved_at": [
+        "versions/v7/artifacts/build_and_validate.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/footrest_V7.scad",
+      "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c",
+      "preserved_at": [
+        "versions/v7/artifacts/footrest_V7.scad",
+        "versions/v9-trial/artifacts/reference/footrest_V7.scad",
+        "versions/v9-full/artifacts/reference/footrest_V7.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/geometry_checks.json",
+      "sha256": "e747fdcd70d78d0b72d2a95162f53e3f221f587bf22e52429b6530c9d9ab12ed",
+      "preserved_at": [
+        "versions/v7/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/orientation_check.json",
+      "sha256": "f6b2768ecc557fe1fc02865ccb44f03405696da2a416996b224e64a5c33825f6",
+      "preserved_at": [
+        "versions/v7/artifacts/orientation_check.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/rebuild_verification.json",
+      "sha256": "79e85751ee82759faa957adb6330c6e2c73caa058a642fc16d1101155fea9ad4",
+      "preserved_at": [
+        "versions/v7/artifacts/rebuild_verification.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/reference/V6A_support_reference_NOT_FOR_PRINT.stl",
+      "sha256": "8b34cd3c2c18e744801c377867ae0c5c09f739fa4138f7d54af2a9ff2139aa23",
+      "preserved_at": [
+        "versions/v7/artifacts/reference/V6A_support_reference_NOT_FOR_PRINT.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/reference/V6A_tested_foot.stl",
+      "sha256": "56917635a2fbe97ea16b9986873e2602a7e9a6572372c7a100a8bf3173746831",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_TPU95A_test_foot.stl",
+        "versions/v7/artifacts/reference/V6A_tested_foot.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/render_views.py",
+      "sha256": "eeda6231102e5df560a5f4bfa4fc68a7db46b8c9052840c05b656bc7ba59a2a4",
+      "preserved_at": [
+        "versions/v7/artifacts/render_views.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/requirements.txt",
+      "sha256": "879951ef3bedb129d5f015c6621fbeb892b10d0510cc15ffbbf37bd610713d32",
+      "preserved_at": [
+        "versions/v6a/artifacts/requirements.txt",
+        "versions/v7/artifacts/requirements.txt"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/structural_screen.json",
+      "sha256": "e351a542ac69b56c25438c21522be205758d2b7a69501baf06a5c2295d2be5ea",
+      "preserved_at": [
+        "versions/v7/artifacts/structural_screen.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V7/structural_screen.py",
+      "sha256": "728e693a8acce61c827c86487f2b0f4c85ebed79c89241a4c0ea0578e020af0e",
+      "preserved_at": [
+        "versions/v7/artifacts/structural_screen.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/PRINTING.txt",
+      "sha256": "7cbba6e9788557c56433f6672681b5ae6e8ad54bdded19965f7f9d070179863b",
+      "preserved_at": [
+        "versions/v7/joint_coupons/PRINTING.txt"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/PRINT_FIRST_brace_socket_coupon.stl",
+      "sha256": "2cad2da1149c57f7c830241f82012f42a200b0d96bd9602a83f73b2147a543b6",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_brace_socket_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_brace_socket_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/PRINT_FIRST_brace_tab_coupon.stl",
+      "sha256": "5eb66e7fa1d5192313e39ed695c1ac51737e97792f51acfd5b8ea4449f12f480",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_brace_tab_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_brace_tab_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/PRINT_FIRST_top_socket_coupon.stl",
+      "sha256": "571a5105c68c85e6763a9ae7623e9554cc587f68bd40dc3d27d787ac0bc18a54",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_top_socket_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_top_socket_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/PRINT_FIRST_top_tab_coupon.stl",
+      "sha256": "c2b565fb42999299551d16c0201fae3e33d6f3d1e1b1a424a83966cc5f1f5f9e",
+      "preserved_at": [
+        "versions/v7/artifacts/PRINT_FIRST_top_tab_coupon.stl",
+        "versions/v7/joint_coupons/PRINT_FIRST_top_tab_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons/V7_coupon_assemblies.png",
+      "sha256": "c224f03ff23b03cd5f010a1fe73d1fb097a9d8540da8bb592cd9df653ceb317e",
+      "preserved_at": [
+        "versions/v7/artifacts/V7_coupon_assemblies.png",
+        "versions/v7/joint_coupons/V7_coupon_assemblies.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V7_joint_coupons.zip",
+      "sha256": "a59f9fdb2e45088c52d435f7c86ea7df4cdf3721780c06ec52bc3c50108ec4ea",
+      "preserved_at": [
+        "archives/v7/V7_joint_coupons.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/START_HERE.md",
+      "sha256": "372878f9ac50c534eb81a97c512bc299d6221f5d57c0e4b8b7261ca151ecff9c",
+      "preserved_at": [
+        "versions/v8/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/V8_rear_joint_trial.scad",
+      "sha256": "c00a486342b71c1144506ca15627189ec59afa9713a7293c15576cc2c864cb34",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_rear_joint_trial.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/V8_release_sequence.png",
+      "sha256": "a71025d8c9e2fea183b6567c3b0e4ed8b65d3971b32f63b9a7d699079328c70c",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_release_sequence.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/V8_trial_keeper.stl",
+      "sha256": "84139ddea8378b806c0ab9cf575696cc37c717fe9178507b6afc0512b7ec906f",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_keeper.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/V8_trial_receiver.stl",
+      "sha256": "55f8bcc2c185cc115e52c8f9fc0ce9f689eff9379c45297f6d7903e506c26ab9",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_receiver.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/V8_trial_tongue.stl",
+      "sha256": "20413ead970d376f96b69056c04da37b9c980c243aeed276c599f79e4247051f",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_tongue.stl",
+        "versions/v8b/artifacts/V8B_trial_tongue.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/geometry_checks.json",
+      "sha256": "dddd9e553473eeb582de9670b65be4e97d40b2e57688a98eed3bf77552bd5595",
+      "preserved_at": [
+        "versions/v8/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V8/validate_trial.py",
+      "sha256": "39c0eab4d8f69ac4bd9184eff027455d659f1c254cb0c574fc587c8fe16e6725",
+      "preserved_at": [
+        "versions/v8/artifacts/validate_trial.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/START_HERE.md",
+      "sha256": "372878f9ac50c534eb81a97c512bc299d6221f5d57c0e4b8b7261ca151ecff9c",
+      "preserved_at": [
+        "versions/v8/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/V8_rear_joint_trial.scad",
+      "sha256": "c00a486342b71c1144506ca15627189ec59afa9713a7293c15576cc2c864cb34",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_rear_joint_trial.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/V8_release_sequence.png",
+      "sha256": "a71025d8c9e2fea183b6567c3b0e4ed8b65d3971b32f63b9a7d699079328c70c",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_release_sequence.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/V8_trial_keeper.stl",
+      "sha256": "84139ddea8378b806c0ab9cf575696cc37c717fe9178507b6afc0512b7ec906f",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_keeper.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/V8_trial_receiver.stl",
+      "sha256": "55f8bcc2c185cc115e52c8f9fc0ce9f689eff9379c45297f6d7903e506c26ab9",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_receiver.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/V8_trial_tongue.stl",
+      "sha256": "20413ead970d376f96b69056c04da37b9c980c243aeed276c599f79e4247051f",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_tongue.stl",
+        "versions/v8b/artifacts/V8B_trial_tongue.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/geometry_checks.json",
+      "sha256": "dddd9e553473eeb582de9670b65be4e97d40b2e57688a98eed3bf77552bd5595",
+      "preserved_at": [
+        "versions/v8/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V8 2/validate_trial.py",
+      "sha256": "39c0eab4d8f69ac4bd9184eff027455d659f1c254cb0c574fc587c8fe16e6725",
+      "preserved_at": [
+        "versions/v8/artifacts/validate_trial.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/START_HERE.md",
+      "sha256": "835cfb565159fdcb1b0b3bfa35da7382fce829d535ac001c2313d447a96bddee",
+      "preserved_at": [
+        "versions/v8b/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_access_study.png",
+      "sha256": "bce88d8d60c58c60dd2bbac4341eebac64c590b5aba0f3fb1ac6a04f7e8d3233",
+      "preserved_at": [
+        "versions/v8b/artifacts/V8B_access_study.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_rear_joint_trial.scad",
+      "sha256": "8e403934f42daa4a099fb2d2210fcf66f8f38fc916a60387df76080e051d2b05",
+      "preserved_at": [
+        "versions/v8b/artifacts/V8B_rear_joint_trial.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_release_sequence.png",
+      "sha256": "88d0f6e14f46a57e68058ca3a040efe2a5e6b16afce11743a41629d7d8d1bd52",
+      "preserved_at": [
+        "versions/v8b/artifacts/V8B_release_sequence.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_trial_keeper.stl",
+      "sha256": "888c802e9a3281a39315f83e2f0c78035559736d69b02211e39d803a19d328d6",
+      "preserved_at": [
+        "versions/v8b/artifacts/V8B_trial_keeper.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_trial_receiver.stl",
+      "sha256": "cb205e7bb6449ad60281271e4c3271742878634ac3f343fff4bcbffddb62abc8",
+      "preserved_at": [
+        "versions/v8b/artifacts/V8B_trial_receiver.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/V8B_trial_tongue.stl",
+      "sha256": "20413ead970d376f96b69056c04da37b9c980c243aeed276c599f79e4247051f",
+      "preserved_at": [
+        "versions/v8/artifacts/V8_trial_tongue.stl",
+        "versions/v8b/artifacts/V8B_trial_tongue.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/geometry_checks.json",
+      "sha256": "5a65f1233223cf4dc20da3f56b4fca675a05280bbf4493da4b28e63a45c60066",
+      "preserved_at": [
+        "versions/v8b/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/layout_checks.json",
+      "sha256": "6ae32e4bd70dded4938729c9767e4fbad9c641004aa325403354d9a967cdf20f",
+      "preserved_at": [
+        "versions/v8b/artifacts/layout_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V8B/validate_trial.py",
+      "sha256": "88bb9b7326a1e7bfd6fcbbef3ef187cb05ddc3e00f2c9b77b0c39ca2bc09543d",
+      "preserved_at": [
+        "versions/v8b/artifacts/validate_trial.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/PRINT_FIRST_V9_channel_coupon.stl",
+      "sha256": "497c76dac0a2174523a8b8924348045cd7db15870b1ddd005a609855ed2be691",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/PRINT_FIRST_V9_channel_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/PRINT_FIRST_V9_rail_coupon.stl",
+      "sha256": "80d0147a100a3fcf31158af4ac5b131360e59eb80e11e5b010863f48e52b878c",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/PRINT_FIRST_V9_rail_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/START_HERE.md",
+      "sha256": "95a2010e3f2910a8ddc1265c2b4f703b6ed21af486a2428cdc36359add92c077",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/V9_design.png",
+      "sha256": "15c53bdd2df8a69ec134ab182be4ee7408d408a0bbc6c90772a98c965fac117d",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/V9_design.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/V9_drop_in_trial.scad",
+      "sha256": "78942903d4ccd20e92ad013672cee3495b8df82c7d6aa1394e28a15739cffcaf",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/V9_drop_in_trial.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/geometry_checks.json",
+      "sha256": "7b521a8560e7da5dbe567513ff10c5f2147cdafe0b82cc6b683c3eca5afb77f7",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/reference/footrest_V7.scad",
+      "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c",
+      "preserved_at": [
+        "versions/v7/artifacts/footrest_V7.scad",
+        "versions/v9-trial/artifacts/reference/footrest_V7.scad",
+        "versions/v9-full/artifacts/reference/footrest_V7.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9/validation_source_workspace.py",
+      "sha256": "a73d308929736aa5a392a297c1f1eeac37b2cc509ace6b576220e3be27fb8b0b",
+      "preserved_at": [
+        "versions/v9-trial/artifacts/validation_source_workspace.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/START_HERE.md",
+      "sha256": "12dc3abd9ea739efbfcf0ceb5dc29badf8219d7c98a9e1bf22fd8facc13fe13e",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/V9C_channel_0p15_PLA.stl",
+      "sha256": "9c8a79b17e79248d16ba3d69a3b617a913c0da610a5e69019e71db4aecf3c793",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_0p15_PLA.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/V9C_channel_0p20_PLA.stl",
+      "sha256": "648f39bf6bf022f1ef10d30aade987c50f0f51a20f306a1fb2b4007677c377a9",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_0p20_PLA.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/V9C_channel_fit.scad",
+      "sha256": "80076781f829171b8948b19b351d83f1ace591651460d721fc54d583cba3992f",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_fit.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/geometry_checks.json",
+      "sha256": "9effaeb61b06ec566408b41b45b9292f49272c0fbca110041a9f767ff4951a97",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit/validation_workspace.py",
+      "sha256": "6d96bb8c4aa346463d896d4725204224ec0ce1345fbedcd7062338515efce2e8",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/validation_workspace.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/START_HERE.md",
+      "sha256": "12dc3abd9ea739efbfcf0ceb5dc29badf8219d7c98a9e1bf22fd8facc13fe13e",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/V9C_channel_0p15_PLA.stl",
+      "sha256": "9c8a79b17e79248d16ba3d69a3b617a913c0da610a5e69019e71db4aecf3c793",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_0p15_PLA.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/V9C_channel_0p20_PLA.stl",
+      "sha256": "648f39bf6bf022f1ef10d30aade987c50f0f51a20f306a1fb2b4007677c377a9",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_0p20_PLA.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/V9C_channel_fit.scad",
+      "sha256": "80076781f829171b8948b19b351d83f1ace591651460d721fc54d583cba3992f",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/V9C_channel_fit.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/geometry_checks.json",
+      "sha256": "9effaeb61b06ec566408b41b45b9292f49272c0fbca110041a9f767ff4951a97",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V9C_fit 2/validation_workspace.py",
+      "sha256": "6d96bb8c4aa346463d896d4725204224ec0ce1345fbedcd7062338515efce2e8",
+      "preserved_at": [
+        "versions/v9c-fit/artifacts/validation_workspace.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_bracket_V2/PRINT_V9_bracket_V2_0p15_PLA.stl",
+      "sha256": "04e9d5b6be3cef4e2be5028b5b6dd3c6af06161c6994d2f2294bc8350119366b",
+      "preserved_at": [
+        "versions/v9-bracket-v2/artifacts/PRINT_V9_bracket_V2_0p15_PLA.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_bracket_V2/START_HERE.md",
+      "sha256": "5fb0d40c8f99bda8135775ffad1d02e6dc7ae9dc7f14bab7bf3f6a892a5f81cd",
+      "preserved_at": [
+        "versions/v9-bracket-v2/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_bracket_V2/V9_bracket_V2_0p15.scad",
+      "sha256": "4140d0e2ae18466708b9b063c091e8f1920bae56fb7030f8a8af165d2692b402",
+      "preserved_at": [
+        "versions/v9-bracket-v2/artifacts/V9_bracket_V2_0p15.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_bracket_V2/geometry_checks.json",
+      "sha256": "3c87cbfe873749b76dd8a34dcb5afbe88c8458e600720c891d3e2da88bd31657",
+      "preserved_at": [
+        "versions/v9-bracket-v2/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_bracket_V2/validation_workspace.py",
+      "sha256": "bf5275f7316846ac57d69a868fcd9ac657cbb47c49fc5f81a84ee0f4af6b52af",
+      "preserved_at": [
+        "versions/v9-bracket-v2/artifacts/validation_workspace.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/ENGINEERING_REVIEW.md",
+      "sha256": "5575ddb9f6838c45238e023747f05f4d90c02fd6c455c42ec6e54deea5c4b31c",
+      "preserved_at": [
+        "versions/v9-full/artifacts/ENGINEERING_REVIEW.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/START_HERE.md",
+      "sha256": "2410a951325eb36535cdbccd232c4ab8c30121e878dd0b653aada7cf062f1556",
+      "preserved_at": [
+        "versions/v9-full/artifacts/START_HERE.md"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_brace_PLA_PROTOTYPE.stl",
+      "sha256": "952b6ca3dbf4a30e22a829bf4802980d64cec2f52a67bb0142ad5aed0bef0d0d",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_brace_PLA_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_foot_left_TPU95A.stl",
+      "sha256": "0564932e8217865dc1c59952be1c6285b05a0f60d167e52a46f5836f2830eb76",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_foot_left_TPU95A.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_foot_right_TPU95A.stl",
+      "sha256": "59fd5ec0566313c1a1988d3648b52849b775d0886ccec23744407921f84e13fe",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_foot_right_TPU95A.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_full_assembly.png",
+      "sha256": "9595eb41e14f3db00289d9383532897b64df6ef1ccfb9449cd2b0efe22c1ee8c",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_full_assembly.png"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_full_prototype.scad",
+      "sha256": "e5bee799336f3252966835b9f5af32513e8d17f2e705714bba617f0e5018f26a",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_full_prototype.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_support_PLA_PROTOTYPE.stl",
+      "sha256": "350c6d852ab66549e2a4e5955f47462585857801d0084aea886592bc11e2ff08",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_support_PLA_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/V9_top_PLA_PROTOTYPE.stl",
+      "sha256": "706699e539870004e3c688cc97e2ace376ee9b4a3f993822688cdda897159dd0",
+      "preserved_at": [
+        "versions/v9-full/artifacts/V9_top_PLA_PROTOTYPE.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/build_and_validate.py",
+      "sha256": "79795bf1f75efa141a09cc69d3e3e540785775f60be84ea1b2aadeb95ed46ead",
+      "preserved_at": [
+        "versions/v9-full/artifacts/build_and_validate.py"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/geometry_checks.json",
+      "sha256": "225def16cf5425c812c8d66d580783f11229365245bb9a3ac1b979ea15ae9793",
+      "preserved_at": [
+        "versions/v9-full/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/reference/footrest_V7.scad",
+      "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c",
+      "preserved_at": [
+        "versions/v7/artifacts/footrest_V7.scad",
+        "versions/v9-trial/artifacts/reference/footrest_V7.scad",
+        "versions/v9-full/artifacts/reference/footrest_V7.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/reference/tested_brace_context.stl",
+      "sha256": "c25a3b09da02e1dc320382b89d74009e88e9210cb57f59bb2fb200d48714ea50",
+      "preserved_at": [
+        "versions/v9-full/artifacts/reference/tested_brace_context.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/reference/unchanged_top.stl",
+      "sha256": "60ac1205e3277a7d0c4538069efc85ec9ac8149053f7d950fa89bc5290923dfd",
+      "preserved_at": [
+        "versions/v9-full/artifacts/reference/unchanged_top.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/V9_full/requirements.txt",
+      "sha256": "26b88d787027b0e7ebf55c6c504e173190dff31754a66969eee4dff238d48d8c",
+      "preserved_at": [
+        "versions/v9-full/artifacts/requirements.txt"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/V6A_PLA_corner_coupon.stl",
+      "sha256": "aa01e8b522e93a5a56d972e36af36763d248f70a46f9f86fa3d6c12d38ec693b",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_PLA_corner_coupon.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/V6A_README.md",
+      "sha256": "337ce84e10868816c59f9dcf564200cf8ade2bfeb32451ad8420cb452052b4f1",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_README.md"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/V6A_TPU95A_test_foot.stl",
+      "sha256": "56917635a2fbe97ea16b9986873e2602a7e9a6572372c7a100a8bf3173746831",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_TPU95A_test_foot.stl",
+        "versions/v7/artifacts/reference/V6A_tested_foot.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/V6A_interface_review.png",
+      "sha256": "d756d7fb25c0e94b6bd47937ca7601eb1213af97c2dc6ed0b35315b7acf6311a",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_interface_review.png"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/V6A_retained_foot.scad",
+      "sha256": "a5ec03a8a5cd99695f92c4b7ca14561362acc1ef3d8869ad53dd61fbcce09b7e",
+      "preserved_at": [
+        "versions/v6a/artifacts/V6A_retained_foot.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/geometry_checks.json",
+      "sha256": "9b4c00836db5ec1dff911af2dd1a5864e63d84c2f266b604b663724197d3a885",
+      "preserved_at": [
+        "versions/v6a/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/HANDOFF.md",
+      "sha256": "efd7c40bfed86487a75da194037c882471cd6b1a78ee7fc11286b8feec9c576c",
+      "preserved_at": [
+        "versions/v3-inherited/HANDOFF.md",
+        "versions/v6a/artifacts/reference/HANDOFF.md"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v3.scad",
+      "sha256": "469ffdb1f954afd76d474efd78ae71f83051a2d38959813bc58f67009d67e1ca",
+      "preserved_at": [
+        "versions/v3-inherited/flatpack_footrest_v3.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v3.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v3_top.stl",
+      "sha256": "0579af55d21edb7f3261c8097a4fe547819cc58d56507302dd97ca5b7ed8f747",
+      "preserved_at": [
+        "versions/v3-inherited/flatpack_footrest_v3_top.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v3_top.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_light_support.scad",
+      "sha256": "6731e6935240899044c472f3464338c4f6417a0f6fc7316cdb4dc298ec55aa12",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_light_support.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_light_support.stl",
+      "sha256": "a4756a7711d76f6881d207c0cae27e37098f4705136ef5bfbea60a8e7f350fd6",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_light_support.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_tpu_foot.scad",
+      "sha256": "2879320ad62dbcb1d32f46926698e9673be44d353884faaae50a3cce581096da",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/flatpack_footrest_v5_tpu_foot.stl",
+      "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+      "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896",
+      "preserved_at": [
+        "versions/v6-calibration-inherited/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+        "versions/v6a/artifacts/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/requirements.txt",
+      "sha256": "879951ef3bedb129d5f015c6621fbeb892b10d0510cc15ffbbf37bd610713d32",
+      "preserved_at": [
+        "versions/v6a/artifacts/requirements.txt",
+        "versions/v7/artifacts/requirements.txt"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/source_export_checks.json",
+      "sha256": "e5d34baadb349cfc1b1b998e7f679f9ea075095ff97bf9c90dffdb5bdc3b57c9",
+      "preserved_at": [
+        "versions/v6a/artifacts/source_export_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial/validate_and_build.py",
+      "sha256": "4694eef70c75e69aeffcb478e48ddd4b5215120b39ea8e20be4ae939299024e3",
+      "preserved_at": [
+        "versions/v6a/artifacts/validate_and_build.py"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V6A_trial.zip",
+      "sha256": "0319e93d1f435905338f6bd56bfd5a1887a81680f2716edf3a613dd83272c46a",
+      "preserved_at": [
+        "archives/v6a/footrest_V6A_trial.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V7_prototype.zip",
+      "sha256": "d6b05bcd9fbb2c6d965beee9c3cf35b47f9ad75d1e8afe402f92f411a234eb7d",
+      "preserved_at": [
+        "archives/v7/footrest_V7_prototype.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V8B_tethered_joint_trial.zip",
+      "sha256": "b52f554624df20c9c1dae9206ac40fe793b237fc9e0eda365fcf3143b37fe55d",
+      "preserved_at": [
+        "archives/v8b/footrest_V8B_tethered_joint_trial.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V8_joint_trial.zip",
+      "sha256": "5b4be1b73be31c3a8b2ebcff1cd2937b07a259b3f3bdd5b4a7b96fe6842a8f51",
+      "preserved_at": [
+        "archives/v8/footrest_V8_joint_trial.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V9C_channel_fit_tests.zip",
+      "sha256": "e244e2d9b178b3c32d5867dd0d06f9eb212ff206cbdf52744c20379596081a7b",
+      "preserved_at": [
+        "archives/v9c-fit/footrest_V9C_channel_fit_tests.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V9_bracket_V2_0p15.zip",
+      "sha256": "6410814e1808173f1109b6839a487ffb6d984d774194efc0af8a9be3373b70bc",
+      "preserved_at": [
+        "archives/v9-bracket-v2/footrest_V9_bracket_V2_0p15.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V9_drop_in_trial.zip",
+      "sha256": "61761100d4fa5874e7f76d3b4eeede0bebeba7e8dce20f70bc031caf9a4a3816",
+      "preserved_at": [
+        "archives/v9-trial/footrest_V9_drop_in_trial.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/footrest_V9_full_prototype.zip",
+      "sha256": "9773a8a3940f4a23adaee64cb549c8e0e3c6010b8373b84d0ea270c89a596fab",
+      "preserved_at": [
+        "archives/v9-full/footrest_V9_full_prototype.zip"
+      ]
+    },
+    {
+      "original_path": "outputs/geometry_checks.json",
+      "sha256": "9b4c00836db5ec1dff911af2dd1a5864e63d84c2f266b604b663724197d3a885",
+      "preserved_at": [
+        "versions/v6a/artifacts/geometry_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/HANDOFF.md",
+      "sha256": "efd7c40bfed86487a75da194037c882471cd6b1a78ee7fc11286b8feec9c576c",
+      "preserved_at": [
+        "versions/v3-inherited/HANDOFF.md",
+        "versions/v6a/artifacts/reference/HANDOFF.md"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v3.scad",
+      "sha256": "469ffdb1f954afd76d474efd78ae71f83051a2d38959813bc58f67009d67e1ca",
+      "preserved_at": [
+        "versions/v3-inherited/flatpack_footrest_v3.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v3.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v3_top.stl",
+      "sha256": "0579af55d21edb7f3261c8097a4fe547819cc58d56507302dd97ca5b7ed8f747",
+      "preserved_at": [
+        "versions/v3-inherited/flatpack_footrest_v3_top.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v3_top.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v5_light_support.scad",
+      "sha256": "6731e6935240899044c472f3464338c4f6417a0f6fc7316cdb4dc298ec55aa12",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_light_support.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v5_light_support.stl",
+      "sha256": "a4756a7711d76f6881d207c0cae27e37098f4705136ef5bfbea60a8e7f350fd6",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_light_support.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_light_support.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v5_tpu_foot.scad",
+      "sha256": "2879320ad62dbcb1d32f46926698e9673be44d353884faaae50a3cce581096da",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.scad",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.scad"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/flatpack_footrest_v5_tpu_foot.stl",
+      "sha256": "a39f60ff79639669c8a52db2065dafe7dec1f7fbaa50154c0a78313ffa6214bc",
+      "preserved_at": [
+        "versions/v5-inherited/flatpack_footrest_v5_tpu_foot.stl",
+        "versions/v6a/artifacts/reference/flatpack_footrest_v5_tpu_foot.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+      "sha256": "e9d839443292cce46aa52695291aef929007ba3f6b856854db08ca3a682ad896",
+      "preserved_at": [
+        "versions/v6-calibration-inherited/footrest_tolerance_coupon_v6_7mm_sockets_only.stl",
+        "versions/v6a/artifacts/reference/footrest_tolerance_coupon_v6_7mm_sockets_only.stl"
+      ]
+    },
+    {
+      "original_path": "outputs/requirements.txt",
+      "sha256": "879951ef3bedb129d5f015c6621fbeb892b10d0510cc15ffbbf37bd610713d32",
+      "preserved_at": [
+        "versions/v6a/artifacts/requirements.txt",
+        "versions/v7/artifacts/requirements.txt"
+      ]
+    },
+    {
+      "original_path": "outputs/source_export_checks.json",
+      "sha256": "e5d34baadb349cfc1b1b998e7f679f9ea075095ff97bf9c90dffdb5bdc3b57c9",
+      "preserved_at": [
+        "versions/v6a/artifacts/source_export_checks.json"
+      ]
+    },
+    {
+      "original_path": "outputs/validate_and_build.py",
+      "sha256": "4694eef70c75e69aeffcb478e48ddd4b5215120b39ea8e20be4ae939299024e3",
+      "preserved_at": [
+        "versions/v6a/artifacts/validate_and_build.py"
+      ]
+    }
+  ]
+}

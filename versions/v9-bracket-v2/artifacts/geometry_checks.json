@@ -1,0 +1,27 @@
+{
+  "watertight": true,
+  "consistent_winding": true,
+  "components": 1,
+  "size_mm": [
+    217.0,
+    180.0,
+    13.599999237060999
+  ],
+  "volume_mm3": 36608.83477568755,
+  "solid_PLA_g": 45.39495512185256,
+  "added_solid_PLA_g_vs_V1": 0.530480139666879,
+  "zero_overlap_checks_mm3": {
+    "assembled": 0.0,
+    "vertical_release": 0.0,
+    "raised_rear_approach": 0.0,
+    "top_install": 0.0
+  },
+  "regression_symmetric_difference_mm3": 0.009938591025260977,
+  "regression_tolerance_mm3": 0.02,
+  "sampling_mm": {
+    "brace": 0.25,
+    "top": 0.5
+  },
+  "sha256": "04e9d5b6be3cef4e2be5028b5b6dd3c6af06161c6994d2f2294bc8350119366b",
+  "limits": "Rigid nominal geometry only; no anti-lift feature or load rating. Full-frame racking retest required."
+}
