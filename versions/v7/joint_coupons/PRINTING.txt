@@ -1,0 +1,9 @@
+V7 first prints: four small PLA parts forming two joint tests. About 27 g fully solid total.
+All parts are already oriented for printing. Keep millimetres and do not scale.
+These can share one PLA plate: no TPU or prime tower is needed.
+For the smallest first commitment, print the top socket/tab pair first (about 15.3 g), then the brace pair (about 11.7 g).
+Assuming a 0.4 mm nozzle: use your proven PLA profile, 0.20 mm layers, six walls, six top/bottom layers, 20-30% infill as a starting point. Check actual toolpaths.
+Supports are not intended. Inspect the 22.1 mm bridge over the brace socket; sagging could obstruct the tight fit.
+Insert each tab until its shoulder/pad seats. It should assemble and release by hand with little rocking. Cycle 10 times and inspect for damage.
+Report fit, full seating, rocking, brace-roof quality and slicer grams/time before printing large parts.
+The top and rear brace remain structural prototypes, not load-rated parts. See the full V7 package for engineering notes and limitations.

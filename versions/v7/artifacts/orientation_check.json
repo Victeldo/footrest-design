@@ -1,0 +1,20 @@
+{
+  "support_orientation_matrices_identical": true,
+  "second_support_translation_mm": [
+    196.0,
+    0.0,
+    0.0
+  ],
+  "rear_brace_intersection_left_mm3": 0.0,
+  "rear_brace_intersection_right_mm3": 0.0,
+  "catch_normal_both_global": [
+    1,
+    0,
+    0
+  ],
+  "top_tab_direction_both_global": [
+    0,
+    0,
+    1
+  ]
+}

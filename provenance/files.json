@@ -128,5 +128,180 @@
     "source": "outputs/footrest_V6A_trial.zip",
     "repository_path": "archives/v6a/footrest_V6A_trial.zip",
     "sha256": "0319e93d1f435905338f6bd56bfd5a1887a81680f2716edf3a613dd83272c46a"
+  },
+  {
+    "source": "outputs/V7/ENGINEERING_NOTES.md",
+    "repository_path": "versions/v7/artifacts/ENGINEERING_NOTES.md",
+    "sha256": "0bb77a0e8235636401d96d408aa9db2e490b873beb05182940fe025cef11d164"
+  },
+  {
+    "source": "outputs/V7/PRINT_FIRST_brace_socket_coupon.stl",
+    "repository_path": "versions/v7/artifacts/PRINT_FIRST_brace_socket_coupon.stl",
+    "sha256": "2cad2da1149c57f7c830241f82012f42a200b0d96bd9602a83f73b2147a543b6"
+  },
+  {
+    "source": "outputs/V7/PRINT_FIRST_brace_tab_coupon.stl",
+    "repository_path": "versions/v7/artifacts/PRINT_FIRST_brace_tab_coupon.stl",
+    "sha256": "5eb66e7fa1d5192313e39ed695c1ac51737e97792f51acfd5b8ea4449f12f480"
+  },
+  {
+    "source": "outputs/V7/PRINT_FIRST_top_socket_coupon.stl",
+    "repository_path": "versions/v7/artifacts/PRINT_FIRST_top_socket_coupon.stl",
+    "sha256": "571a5105c68c85e6763a9ae7623e9554cc587f68bd40dc3d27d787ac0bc18a54"
+  },
+  {
+    "source": "outputs/V7/PRINT_FIRST_top_tab_coupon.stl",
+    "repository_path": "versions/v7/artifacts/PRINT_FIRST_top_tab_coupon.stl",
+    "sha256": "c2b565fb42999299551d16c0201fae3e33d6f3d1e1b1a424a83966cc5f1f5f9e"
+  },
+  {
+    "source": "outputs/V7/START_HERE.md",
+    "repository_path": "versions/v7/artifacts/START_HERE.md",
+    "sha256": "d9d26e487a5b38b8ae799868db70007012f2f2c9acbfd95db520ed40159e00fc"
+  },
+  {
+    "source": "outputs/V7/V6A_mirrored_foot_right.stl",
+    "repository_path": "versions/v7/artifacts/V6A_mirrored_foot_right.stl",
+    "sha256": "ce26609b33fa42f1c72bfc5922decb12d900947ef71d30ce1c3b624801e6a7b5"
+  },
+  {
+    "source": "outputs/V7/V6A_unchanged_foot_left.stl",
+    "repository_path": "versions/v7/artifacts/V6A_unchanged_foot_left.stl",
+    "sha256": "0d255930e3009e5d34934935c9deadb59ffe0187e2c02322b56afda1f601117a"
+  },
+  {
+    "source": "outputs/V7/V7_assembly_REFERENCE.glb",
+    "repository_path": "versions/v7/artifacts/V7_assembly_REFERENCE.glb",
+    "sha256": "7f176291ebfd6ab7c6470decd01dc276849f0edf7b49e68ae90184c26067416c"
+  },
+  {
+    "source": "outputs/V7/V7_coupon_assemblies.png",
+    "repository_path": "versions/v7/artifacts/V7_coupon_assemblies.png",
+    "sha256": "c224f03ff23b03cd5f010a1fe73d1fb097a9d8540da8bb592cd9df653ceb317e"
+  },
+  {
+    "source": "outputs/V7/V7_design_review.png",
+    "repository_path": "versions/v7/artifacts/V7_design_review.png",
+    "sha256": "6afb277e49253bb2312bf2632aa2d79ab5de6d8a0bec0c9f1196b126df13412b"
+  },
+  {
+    "source": "outputs/V7/V7_rear_brace_PROTOTYPE.stl",
+    "repository_path": "versions/v7/artifacts/V7_rear_brace_PROTOTYPE.stl",
+    "sha256": "2c4cccd58909e5935f4574982fe25b477a055de65dd30ed31b6cdecffe0cea9c"
+  },
+  {
+    "source": "outputs/V7/V7_support_PROTOTYPE.stl",
+    "repository_path": "versions/v7/artifacts/V7_support_PROTOTYPE.stl",
+    "sha256": "55d114572683436b10616ff9b43d7c6deb71fa418d2f33e55e3d8dcbfd9f0d53"
+  },
+  {
+    "source": "outputs/V7/V7_support_orientation.png",
+    "repository_path": "versions/v7/artifacts/V7_support_orientation.png",
+    "sha256": "6fb0f76da8b62e282e161aaff08a3222e13c44403abe519cfb26ec789fe46f9b"
+  },
+  {
+    "source": "outputs/V7/V7_top_PROTOTYPE.stl",
+    "repository_path": "versions/v7/artifacts/V7_top_PROTOTYPE.stl",
+    "sha256": "650b2830dcae3fec120f60df5ab5ed10a2346c5dca4414a92f309c96b8adb8d6"
+  },
+  {
+    "source": "outputs/V7/build_and_validate.py",
+    "repository_path": "versions/v7/artifacts/build_and_validate.py",
+    "sha256": "f27ee0629e43a888554dce986132f7e3ef83207642985932e74a7c824903ab73"
+  },
+  {
+    "source": "outputs/V7/footrest_V7.scad",
+    "repository_path": "versions/v7/artifacts/footrest_V7.scad",
+    "sha256": "bdcf5091638a28cad6633c0da22b75a1c7d4d25bb5241c785fa758d56917ef9c"
+  },
+  {
+    "source": "outputs/V7/geometry_checks.json",
+    "repository_path": "versions/v7/artifacts/geometry_checks.json",
+    "sha256": "e747fdcd70d78d0b72d2a95162f53e3f221f587bf22e52429b6530c9d9ab12ed"
+  },
+  {
+    "source": "outputs/V7/orientation_check.json",
+    "repository_path": "versions/v7/artifacts/orientation_check.json",
+    "sha256": "f6b2768ecc557fe1fc02865ccb44f03405696da2a416996b224e64a5c33825f6"
+  },
+  {
+    "source": "outputs/V7/rebuild_verification.json",
+    "repository_path": "versions/v7/artifacts/rebuild_verification.json",
+    "sha256": "79e85751ee82759faa957adb6330c6e2c73caa058a642fc16d1101155fea9ad4"
+  },
+  {
+    "source": "outputs/V7/reference/V6A_support_reference_NOT_FOR_PRINT.stl",
+    "repository_path": "versions/v7/artifacts/reference/V6A_support_reference_NOT_FOR_PRINT.stl",
+    "sha256": "8b34cd3c2c18e744801c377867ae0c5c09f739fa4138f7d54af2a9ff2139aa23"
+  },
+  {
+    "source": "outputs/V7/reference/V6A_tested_foot.stl",
+    "repository_path": "versions/v7/artifacts/reference/V6A_tested_foot.stl",
+    "sha256": "56917635a2fbe97ea16b9986873e2602a7e9a6572372c7a100a8bf3173746831"
+  },
+  {
+    "source": "outputs/V7/render_views.py",
+    "repository_path": "versions/v7/artifacts/render_views.py",
+    "sha256": "eeda6231102e5df560a5f4bfa4fc68a7db46b8c9052840c05b656bc7ba59a2a4"
+  },
+  {
+    "source": "outputs/V7/requirements.txt",
+    "repository_path": "versions/v7/artifacts/requirements.txt",
+    "sha256": "879951ef3bedb129d5f015c6621fbeb892b10d0510cc15ffbbf37bd610713d32"
+  },
+  {
+    "source": "outputs/V7/structural_screen.json",
+    "repository_path": "versions/v7/artifacts/structural_screen.json",
+    "sha256": "e351a542ac69b56c25438c21522be205758d2b7a69501baf06a5c2295d2be5ea"
+  },
+  {
+    "source": "outputs/V7/structural_screen.py",
+    "repository_path": "versions/v7/artifacts/structural_screen.py",
+    "sha256": "728e693a8acce61c827c86487f2b0f4c85ebed79c89241a4c0ea0578e020af0e"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/PRINTING.txt",
+    "repository_path": "versions/v7/joint_coupons/PRINTING.txt",
+    "sha256": "7cbba6e9788557c56433f6672681b5ae6e8ad54bdded19965f7f9d070179863b"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/PRINT_FIRST_brace_socket_coupon.stl",
+    "repository_path": "versions/v7/joint_coupons/PRINT_FIRST_brace_socket_coupon.stl",
+    "sha256": "2cad2da1149c57f7c830241f82012f42a200b0d96bd9602a83f73b2147a543b6"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/PRINT_FIRST_brace_tab_coupon.stl",
+    "repository_path": "versions/v7/joint_coupons/PRINT_FIRST_brace_tab_coupon.stl",
+    "sha256": "5eb66e7fa1d5192313e39ed695c1ac51737e97792f51acfd5b8ea4449f12f480"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/PRINT_FIRST_top_socket_coupon.stl",
+    "repository_path": "versions/v7/joint_coupons/PRINT_FIRST_top_socket_coupon.stl",
+    "sha256": "571a5105c68c85e6763a9ae7623e9554cc587f68bd40dc3d27d787ac0bc18a54"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/PRINT_FIRST_top_tab_coupon.stl",
+    "repository_path": "versions/v7/joint_coupons/PRINT_FIRST_top_tab_coupon.stl",
+    "sha256": "c2b565fb42999299551d16c0201fae3e33d6f3d1e1b1a424a83966cc5f1f5f9e"
+  },
+  {
+    "source": "outputs/V7_joint_coupons/V7_coupon_assemblies.png",
+    "repository_path": "versions/v7/joint_coupons/V7_coupon_assemblies.png",
+    "sha256": "c224f03ff23b03cd5f010a1fe73d1fb097a9d8540da8bb592cd9df653ceb317e"
+  },
+  {
+    "source": "work/photo_review/IMG_2361.png",
+    "repository_path": "versions/v7/evidence/IMG_2361.png",
+    "sha256": "44f1980c50ebf21a72a595ed43b770fa8f40d186eae2d774e37f5414c4f6f453"
+  },
+  {
+    "source": "outputs/footrest_V7_prototype.zip",
+    "repository_path": "archives/v7/footrest_V7_prototype.zip",
+    "sha256": "d6b05bcd9fbb2c6d965beee9c3cf35b47f9ad75d1e8afe402f92f411a234eb7d"
+  },
+  {
+    "source": "outputs/V7_joint_coupons.zip",
+    "repository_path": "archives/v7/V7_joint_coupons.zip",
+    "sha256": "a59f9fdb2e45088c52d435f7c86ea7df4cdf3721780c06ec52bc3c50108ec4ea"
   }
 ]

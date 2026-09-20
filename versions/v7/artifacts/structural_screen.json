@@ -1,0 +1,157 @@
+{
+  "scope": "Approximate linear beam grillage, not solid FEA. Solid skins/webs, ideal joints and fixed vertical support points; ignores creep, local stress concentrations, layer defects, and foot compliance.",
+  "assumed_E_MPa": [
+    1500,
+    2500
+  ],
+  "load_N": 200,
+  "measured_user_load_lbf": 25.6,
+  "measured_user_load_N": 113.8744733506688,
+  "top": {
+    "1500": {
+      "center_point_200N": {
+        "max_deflection_mm": 2.14344923398208,
+        "peak_nominal_beam_stress_MPa": 13.523611133542985,
+        "vertical_reactions_N": [
+          30.704145265983698,
+          38.591709468036015,
+          30.704145265982334,
+          30.704145265974148,
+          38.5917094680367,
+          30.704145265982334
+        ],
+        "min_reaction_N": 30.704145265974148
+      },
+      "center_patch_200N": {
+        "max_deflection_mm": 1.850866585605953,
+        "peak_nominal_beam_stress_MPa": 10.103808000100946,
+        "vertical_reactions_N": [
+          33.00084586902267,
+          33.99830826195807,
+          33.00084586902358,
+          33.00084586901539,
+          33.99830826195466,
+          33.000845869022214
+        ],
+        "min_reaction_N": 33.00084586901539
+      },
+      "two_heel_patches_total_200N": {
+        "max_deflection_mm": 1.0204809019600354,
+        "peak_nominal_beam_stress_MPa": 4.313662829248297,
+        "vertical_reactions_N": [
+          25.13353963060126,
+          49.73292073880189,
+          25.133539630600122,
+          25.13353963059512,
+          49.73292073880144,
+          25.13353963059944
+        ],
+        "min_reaction_N": 25.13353963059512
+      },
+      "single_offset_patch_200N": {
+        "max_deflection_mm": 2.1072846661258957,
+        "peak_nominal_beam_stress_MPa": 9.454034001356835,
+        "vertical_reactions_N": [
+          135.9712642066049,
+          23.739751727388168,
+          1.5134738619276504,
+          32.51497960661845,
+          5.9544273128329905,
+          0.30610328462910275
+        ],
+        "min_reaction_N": 0.30610328462910275
+      }
+    },
+    "2500": {
+      "center_point_200N": {
+        "max_deflection_mm": 1.28606954038921,
+        "peak_nominal_beam_stress_MPa": 13.52361113354265,
+        "vertical_reactions_N": [
+          30.704145265983243,
+          38.59170946803374,
+          30.704145265983243,
+          30.70414526598688,
+          38.591709468035106,
+          30.704145265982334
+        ],
+        "min_reaction_N": 30.704145265982334
+      },
+      "center_patch_200N": {
+        "max_deflection_mm": 1.110519951363535,
+        "peak_nominal_beam_stress_MPa": 10.103808000100706,
+        "vertical_reactions_N": [
+          33.00084586902085,
+          33.9983082619558,
+          33.00084586902085,
+          33.00084586902449,
+          33.998308261953525,
+          33.00084586901994
+        ],
+        "min_reaction_N": 33.00084586901994
+      },
+      "two_heel_patches_total_200N": {
+        "max_deflection_mm": 0.6122885411760014,
+        "peak_nominal_beam_stress_MPa": 4.313662829248197,
+        "vertical_reactions_N": [
+          25.133539630600122,
+          49.73292073880098,
+          25.133539630599213,
+          25.13353963060558,
+          49.73292073880235,
+          25.13353963059853
+        ],
+        "min_reaction_N": 25.13353963059853
+      },
+      "single_offset_patch_200N": {
+        "max_deflection_mm": 1.2643707996755387,
+        "peak_nominal_beam_stress_MPa": 9.454034001356801,
+        "vertical_reactions_N": [
+          135.971264206604,
+          23.739751727387713,
+          1.513473861927423,
+          32.51497960662482,
+          5.954427312830489,
+          0.30610328462830694
+        ],
+        "min_reaction_N": 0.30610328462830694
+      }
+    }
+  },
+  "lateral_frame_screen": {
+    "1500": {
+      "top_sway_mm_at_10N_per_panel_fixed_feet": 23.55187171902396
+    },
+    "2500": {
+      "top_sway_mm_at_10N_per_panel_fixed_feet": 14.131123031414411
+    },
+    "note": "This is the unbraced V5-style frame, BEFORE rail flanges or rear X-brace. Large predicted motion is a warning, not a valid large-deflection prediction."
+  },
+  "solver_check": {
+    "calculated_mm": 20.91537777777777,
+    "classical_mm": 20.915377777777778
+  },
+  "rear_brace_screen": {
+    "1500": {
+      "horizontal_check_load_N": 20,
+      "ideal_diagonal_extension_sway_mm": 0.05855825976960964,
+      "diagonal_axial_force_N": 12.908869061933444,
+      "nominal_axial_stress_MPa": 0.26893477212361344,
+      "pinned_full_length_Euler_buckling_N": 33.301589456312506,
+      "limitations": "Assumes solid 8x6 members, straight columns, pinned ends, both diagonals engaged. Does not credit fused X crossing as a brace. Joint clearance, upper/lower frame extensions, contact slip, and foot compliance omitted. Not full assembly sway."
+    },
+    "2500": {
+      "horizontal_check_load_N": 20,
+      "ideal_diagonal_extension_sway_mm": 0.03513495586176579,
+      "diagonal_axial_force_N": 12.908869061933444,
+      "nominal_axial_stress_MPa": 0.26893477212361344,
+      "pinned_full_length_Euler_buckling_N": 55.50264909385417,
+      "limitations": "Assumes solid 8x6 members, straight columns, pinned ends, both diagonals engaged. Does not credit fused X crossing as a brace. Joint clearance, upper/lower frame extensions, contact slip, and foot compliance omitted. Not full assembly sway."
+    }
+  },
+  "rail_section_screen": {
+    "original_weak_axis_I_mm4": 285.8333333333333,
+    "flanged_weak_axis_I_mm4": 657.2878787878788,
+    "ratio": 2.299549430161675,
+    "limitations": "Local solid section only. Tapers, corner restraint and load sharing affect actual panel buckling. No global buckling rating."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "clean_rebuild_passed": true,
+  "byte_identical_STLs": {
+    "V6A_mirrored_foot_right.stl": true,
+    "V7_support_PROTOTYPE.stl": true,
+    "V6A_unchanged_foot_left.stl": true,
+    "V7_top_PROTOTYPE.stl": true,
+    "PRINT_FIRST_brace_socket_coupon.stl": true,
+    "PRINT_FIRST_brace_tab_coupon.stl": true,
+    "PRINT_FIRST_top_socket_coupon.stl": true,
+    "PRINT_FIRST_top_tab_coupon.stl": true,
+    "V7_rear_brace_PROTOTYPE.stl": true
+  },
+  "compiler": "OpenSCAD 2021.01",
+  "tested_parameters": "Default V7 source values only"
+}

@@ -1,0 +1,357 @@
+{
+  "parts": {
+    "support": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          158.0,
+          230.0,
+          14.100000381469727
+        ]
+      ],
+      "extents_mm": [
+        158.0,
+        230.0,
+        14.100000381469727
+      ],
+      "volume_cm3": 89.92818183231307,
+      "solid_mass_g": 111.51094547206822,
+      "filename": "V7_support_PROTOTYPE.stl",
+      "sha256": "55d114572683436b10616ff9b43d7c6deb71fa418d2f33e55e3d8dcbfd9f0d53"
+    },
+    "foot_right": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          6.661339735937715e-16,
+          7.629390097463329e-07,
+          0.0
+        ],
+        [
+          29.799999237060547,
+          11.100000381469727,
+          16.0
+        ]
+      ],
+      "extents_mm": [
+        29.799999237060547,
+        11.099999618530717,
+        16.0
+      ],
+      "volume_cm3": 1.8670421533663932,
+      "solid_mass_g": 2.240450584039672,
+      "filename": "V6A_mirrored_foot_right.stl",
+      "sha256": "ce26609b33fa42f1c72bfc5922decb12d900947ef71d30ce1c3b624801e6a7b5"
+    },
+    "foot_left": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          7.629390097463329e-07,
+          7.629390097463329e-07,
+          0.0
+        ],
+        [
+          29.799999237060547,
+          11.100000381469727,
+          16.0
+        ]
+      ],
+      "extents_mm": [
+        29.799998474121537,
+        11.099999618530717,
+        16.0
+      ],
+      "volume_cm3": 1.8670421166452227,
+      "solid_mass_g": 2.240450539974267,
+      "filename": "V6A_unchanged_foot_left.stl",
+      "sha256": "0d255930e3009e5d34934935c9deadb59ffe0187e2c02322b56afda1f601117a"
+    },
+    "top": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          240.0,
+          170.0,
+          24.0
+        ]
+      ],
+      "extents_mm": [
+        240.0,
+        170.0,
+        24.0
+      ],
+      "volume_cm3": 203.2859713846297,
+      "solid_mass_g": 252.07460451694084,
+      "filename": "V7_top_PROTOTYPE.stl",
+      "sha256": "650b2830dcae3fec120f60df5ab5ed10a2346c5dca4414a92f309c96b8adb8d6"
+    },
+    "brace_tab_coupon": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          24.0,
+          30.0,
+          13.0
+        ]
+      ],
+      "extents_mm": [
+        24.0,
+        30.0,
+        13.0
+      ],
+      "volume_cm3": 5.398,
+      "solid_mass_g": 6.6935199999999995,
+      "filename": "PRINT_FIRST_brace_tab_coupon.stl",
+      "sha256": "5eb66e7fa1d5192313e39ed695c1ac51737e97792f51acfd5b8ea4449f12f480"
+    },
+    "tab_coupon": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          32.0,
+          17.0,
+          7.0
+        ]
+      ],
+      "extents_mm": [
+        32.0,
+        17.0,
+        7.0
+      ],
+      "volume_cm3": 3.318,
+      "solid_mass_g": 4.11432,
+      "filename": "PRINT_FIRST_top_tab_coupon.stl",
+      "sha256": "c2b565fb42999299551d16c0201fae3e33d6f3d1e1b1a424a83966cc5f1f5f9e"
+    },
+    "brace_socket_coupon": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          13.0,
+          30.0,
+          14.100000381469727
+        ]
+      ],
+      "extents_mm": [
+        13.0,
+        30.0,
+        14.100000381469727
+      ],
+      "volume_cm3": 4.030880095715525,
+      "solid_mass_g": 4.998291318687251,
+      "filename": "PRINT_FIRST_brace_socket_coupon.stl",
+      "sha256": "2cad2da1149c57f7c830241f82012f42a200b0d96bd9602a83f73b2147a543b6"
+    },
+    "brace": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          220.0,
+          190.0,
+          13.0
+        ]
+      ],
+      "extents_mm": [
+        220.0,
+        190.0,
+        13.0
+      ],
+      "volume_cm3": 42.50518797525915,
+      "solid_mass_g": 52.706433089321344,
+      "filename": "V7_rear_brace_PROTOTYPE.stl",
+      "sha256": "2c4cccd58909e5935f4574982fe25b477a055de65dd30ed31b6cdecffe0cea9c"
+    },
+    "socket_coupon": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          22.0,
+          36.0,
+          24.0
+        ]
+      ],
+      "extents_mm": [
+        22.0,
+        36.0,
+        24.0
+      ],
+      "volume_cm3": 9.014270106296541,
+      "solid_mass_g": 11.17769493180771,
+      "filename": "PRINT_FIRST_top_socket_coupon.stl",
+      "sha256": "571a5105c68c85e6763a9ae7623e9554cc587f68bd40dc3d27d787ac0bc18a54"
+    }
+  },
+  "checks": {
+    "pairwise_intersections_mm3": {
+      "top / support_L": 0,
+      "top / support_R": 0,
+      "top / rear_brace": 0,
+      "top / foot_L_front": 0,
+      "top / foot_L_rear": 0,
+      "top / foot_R_front": 0,
+      "top / foot_R_rear": 0,
+      "support_L / support_R": 0,
+      "support_L / rear_brace": 0,
+      "support_L / foot_L_front": 0,
+      "support_L / foot_L_rear": 0,
+      "support_L / foot_R_front": 0,
+      "support_L / foot_R_rear": 0,
+      "support_R / rear_brace": 0,
+      "support_R / foot_L_front": 0,
+      "support_R / foot_L_rear": 0,
+      "support_R / foot_R_front": 2.480654570646834e-16,
+      "support_R / foot_R_rear": 0,
+      "rear_brace / foot_L_front": 0,
+      "rear_brace / foot_L_rear": 0,
+      "rear_brace / foot_R_front": 0,
+      "rear_brace / foot_R_rear": 0,
+      "foot_L_front / foot_L_rear": 0,
+      "foot_L_front / foot_R_front": 0,
+      "foot_L_front / foot_R_rear": 0,
+      "foot_L_rear / foot_R_front": 0,
+      "foot_L_rear / foot_R_rear": 0,
+      "foot_R_front / foot_R_rear": 0
+    },
+    "assembled_bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        240.0,
+        174.0,
+        241.0
+      ]
+    ],
+    "assembled_extents_mm": [
+      240.0,
+      174.0,
+      241.0
+    ],
+    "tab_symmetric_difference_mm3": 0,
+    "socket_dimensions_mm": [
+      7.1,
+      22.1,
+      7
+    ],
+    "socket_void_intersections_mm3": [
+      0.0002866109074648726,
+      0.00011802673355735635,
+      3.791809063820049e-05,
+      0
+    ],
+    "socket_wall_missing_mm3": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7.583616523848015e-05,
+      7.583616531803739e-05,
+      0,
+      0.00023605344951732837,
+      0.000236053447774225,
+      0,
+      0,
+      0,
+      0.00023605353223587122,
+      0.00023605353181153487,
+      7.583618166269914e-05,
+      7.583618116768771e-05,
+      0
+    ],
+    "support_insertion_intersections_mm3": {
+      "0": 0,
+      "0.25": 0,
+      "1": 0,
+      "3": 0,
+      "7": 0,
+      "10": 0,
+      "15": 0,
+      "25": 0
+    },
+    "brace_insertion_intersections_mm3": {
+      "0": 0,
+      "0.25": 0,
+      "1": 0,
+      "3": 0,
+      "7": 0,
+      "10": 0,
+      "15": 0
+    },
+    "shoulder_contact_overlap_at_0p1mm_overinsertion_mm3": 96.31999359130492,
+    "top_coupon_fit_intersection_mm3": 0,
+    "brace_coupon_fit_intersection_mm3": 0,
+    "tested_foot_symmetric_difference_mm3": 0,
+    "tested_catch_symmetric_difference_mm3": 0,
+    "bottom_rail_missing_mm3": 0,
+    "floor_contact_envelope_mm": [
+      [
+        16.44999885559082,
+        8.200000762939453
+      ],
+      [
+        223.5500030517578,
+        161.8000030517578
+      ]
+    ]
+  },
+  "total_solid_mass_g": 536.7647307102957
+}
