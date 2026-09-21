@@ -143,3 +143,13 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Physical:** Not printed or tested. No new print files released.
 
 **Outcome:** Candidate for discussion. Capture depends on the top remaining seated; flexing, combined lift/splay, new fit, print orientation and mirrored support/TPU arrangement remain open. [Concept review](versions/v10-side-entry-concept/REVIEW.md).
+
+## v10a-print-prototype — requested full STLs
+
+**Change / why:** User requested V10 STLs. Added flat-face backing to socket blocks for printing, retained mating geometry, and exported separate left/right supports and rear brace. Existing top retained.
+
+**CAD:** Reran rigid assembly/path checks; verified print exports, orientation regression and A1 envelopes. No sliced toolpaths or structural qualification.
+
+**Physical:** Untested. New rectangular socket fit, combined top lift/racking and TPU handedness remain unresolved. This prototype release does not supersede V9/V2 failure evidence with a claimed pass.
+
+[Files and instructions](versions/v10a-print-prototype/START_HERE.md).

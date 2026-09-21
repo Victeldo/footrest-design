@@ -1,0 +1,111 @@
+{
+  "stage": "user-requested prototype STL release; no load rating",
+  "zero_overlap_checks_mm3": {
+    "assembled": 1.7763568394002505e-15,
+    "sideways_assembly_0_25mm": 6.88338275267597e-14,
+    "top_install_0_5mm": 0.0
+  },
+  "intentional_blocking_mm3": {
+    "brace_up_0_5mm": 134.40087890625006,
+    "brace_down_0_5mm": 134.4012451171876,
+    "support_outward_0_2mm_top_fixed": 92.39955546061059
+  },
+  "left_splay_deg_top_fixed_overlap_mm3": {
+    "0.1": 0.7338419875004547,
+    "0.25": 1.8284764207573971,
+    "0.5": 3.9391027509493295,
+    "1": 13.662402888108334,
+    "2": 43.449072042583765
+  },
+  "tongue_engagement_mm": 12,
+  "blind_end_gap_mm": 2,
+  "nominal_vertical_and_depth_clearance_per_face_mm": 0.15,
+  "top_tab_clearance_total_mm": 0.1,
+  "limitations": [
+    "No deformable-contact or coupled top-lift analysis",
+    "No measured stiffness/strength",
+    "New socket fit and print directions untested",
+    "Top can lift off; capture is conditional on top remaining seated",
+    "No TPU handedness/assembly regression yet"
+  ],
+  "print_parts": {
+    "left_print": {
+      "file": "V10A_left_PLA_PROTOTYPE.stl",
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          163.0,
+          230.0,
+          23.5
+        ]
+      ],
+      "size_mm": [
+        163.0,
+        230.0,
+        23.5
+      ],
+      "volume_mm3": 102474.30100098492,
+      "solid_PLA_g": 127.0681332412213,
+      "one_watertight_component": true,
+      "inverse_transform_regression_mm3": 0.0,
+      "max_vertex_rounding_error_mm": 0.0,
+      "sha256": "fd781bdc5e07bfba27717268d539984d5d5bbd2b86fd128a227938e764dd871f"
+    },
+    "right_print": {
+      "file": "V10A_right_PLA_PROTOTYPE.stl",
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          163.0,
+          230.0,
+          23.5
+        ]
+      ],
+      "size_mm": [
+        163.0,
+        230.0,
+        23.5
+      ],
+      "volume_mm3": 102474.30100098495,
+      "solid_PLA_g": 127.06813324122135,
+      "one_watertight_component": true,
+      "inverse_transform_regression_mm3": 0.7598894272455687,
+      "max_vertex_rounding_error_mm": 0.0004999999999881766,
+      "sha256": "1b1b0691ef6924b449bcdb4e15310d1934f7837fb3ebc4b0be6bb6b273195223"
+    },
+    "brace_print": {
+      "file": "V10A_brace_PLA_PROTOTYPE.stl",
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          180.0,
+          180.0,
+          8.0
+        ]
+      ],
+      "size_mm": [
+        180.0,
+        180.0,
+        8.0
+      ],
+      "volume_mm3": 32430.397200000007,
+      "solid_PLA_g": 40.21369252800001,
+      "one_watertight_component": true,
+      "inverse_transform_regression_mm3": 0.07855224609375,
+      "max_vertex_rounding_error_mm": 0.00010000000000331966,
+      "sha256": "59fabd9b26ca18ad4426d7a0f21a2bf97556d65b24d9aa0e40b554f4b8137a9e"
+    }
+  }
+}

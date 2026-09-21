@@ -1,4 +1,4 @@
-# Current stage: V10 side-entry concept — no print release
+# Current stage: V10A user-requested prototype STL release
 
 The last physically tested assembly is V9 bracket V2. It was more stable than V9 but still racked and its upper channels slid upward off the T rails. No subsequent fix has passed an assembled test. No load rating exists.
 
@@ -6,7 +6,7 @@ The last physically tested assembly is V9 bracket V2. It was more stable than V9
 
 Keep the top where practical; allow support rear interfaces and brace to change. Stay fully printable, without purchased fasteners. Investigate horizontal brace tongues captured between inward-facing support sockets, with the top fitted last. Do not hard-constrain the design to existing support prints or resume tightening V9.
 
-[Concept and evidence](versions/v10-side-entry-concept/REVIEW.md). The new sockets block vertical tongue movement nominally; the top blocks outward support translation only while held seated in the checked model. Combined top lift/support splay, flexibility, strength, printability and mirrored TPU arrangement are unresolved. There are no printable V10 STLs.
+[Concept and evidence](versions/v10-side-entry-concept/REVIEW.md). The new sockets block vertical tongue movement nominally; the top blocks outward support translation only while held seated in the checked model. Combined top lift/support splay, flexibility, strength, printability and mirrored TPU arrangement are unresolved. V10A print-oriented STLs are now released on explicit user request; no new physical results exist. See versions/v10a-print-prototype/START_HERE.md.
 
 The next decision is whether the assembly reliably closes those remaining motions without adding awkward mechanisms. Do not confuse a fixed-top CAD obstruction with proof that the actual unlatched top cannot lift.
 
