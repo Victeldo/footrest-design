@@ -17,3 +17,7 @@ User reports: “v10 seems to have solved racking for the most part” and “it
 This is qualitative assembled stability improvement relative to V9/V2. It supports continuing with the side-entry mechanism rather than another redesign. It is consistent with improved vertical restraint at brace joints, but does not isolate the effects of changed fit, socket geometry or support stiffness.
 
 Not reported: applied force, residual displacement, whether the top lifts, measured loading, sustained load duration, assembly/removal cycling, TPU installation or damage inspection. Do not infer these passed. Next check: comfortable intentional disassembly/reassembly and retention of the improved seating/stability. No geometry changed for this result.
+
+## Physical update — 2026-09-21, fully seated top removal
+
+User reports that after fully pushing the top in, pulling it straight out feels locked; angling it somewhat helps removal. The top has no intentional latch. Record this as difficult removal/binding, not a successful positive lock. Which connection binds, applied force and any damage are not established. Possible four-joint alignment, friction or guide contact are hypotheses, not diagnoses. Do not recommend forceful prying. Packability remains unresolved despite the improved racking feedback. No geometry changed.

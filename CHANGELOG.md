@@ -157,3 +157,7 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 ## 2026-09-21 — V10/V10A assembled feedback
 
 User reports racking mostly resolved and assembly feels much more stable. Qualitative full-assembly improvement; no measured force/displacement, load-capacity or durability result. Preserve geometry for further evaluation. Added physical result to V10A review; no new design version.
+
+## 2026-09-21 — fully seated top binds during removal
+
+V10A user feedback: fully seated top resists straight extraction; angling helps. No designed latch exists. Stability improvement remains reported, but easy disassembly is not established. Record binding/alignment/friction as possible causes, pending localization; no design change made.

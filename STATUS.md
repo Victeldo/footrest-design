@@ -13,3 +13,7 @@ Preserve the current geometry. Next establish whether intentional disassembly/re
 ## Preserved constraints
 
 A1 256 mm cube, PLA structure, replaceable TPU95A shoes, seated use, no standing. Existing top 240 x 170 mm, nominal overall height 241 mm. Calibrated top tabs 7 x 22 x 7 mm into 7.10 x 22.10 mm sockets. 200 N remains an unverified check target. Low filament waste, simple packing and deliberate easy disassembly are acceptance criteria.
+
+## Latest packability observation
+
+After fully seating the top, the user reports straight withdrawal feels locked and angling helps. This is not intentional latch behavior. Easy disassembly remains unresolved. Diagnose the actual binding location before changing the calibrated sockets, and avoid forceful extraction.
