@@ -1,0 +1,31 @@
+{
+  "stage": "concept only; no print release",
+  "zero_overlap_checks_mm3": {
+    "assembled": 1.7763568394002505e-15,
+    "sideways_assembly_0_25mm": 6.88338275267597e-14,
+    "top_install_0_5mm": 0.0
+  },
+  "intentional_blocking_mm3": {
+    "brace_up_0_5mm": 134.40087890625006,
+    "brace_down_0_5mm": 134.4012451171876,
+    "support_outward_0_2mm_top_fixed": 92.39955546061059
+  },
+  "left_splay_deg_top_fixed_overlap_mm3": {
+    "0.1": 0.7338419875004547,
+    "0.25": 1.8284764207573971,
+    "0.5": 3.9391027509493295,
+    "1": 13.662402888108334,
+    "2": 43.449072042583765
+  },
+  "tongue_engagement_mm": 12,
+  "blind_end_gap_mm": 2,
+  "nominal_vertical_and_depth_clearance_per_face_mm": 0.15,
+  "top_tab_clearance_total_mm": 0.1,
+  "limitations": [
+    "No deformable-contact or coupled top-lift analysis",
+    "No measured stiffness/strength",
+    "New socket fit and print directions untested",
+    "Top can lift off; capture is conditional on top remaining seated",
+    "No TPU handedness/assembly regression yet"
+  ]
+}

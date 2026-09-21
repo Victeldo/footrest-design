@@ -133,3 +133,13 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Outcome:** FAILED full-frame racking/retention despite improved local fit. Further tightening is not the established fix. Open question: when does vertical channel motion begin relative to frame racking? A proposed anti-lift feature must carry load and constrain racking, not merely catch a detached brace.
 
 [Artifacts and review](versions/v9-bracket-v2/REVIEW.md)
+
+## v10-side-entry-concept — horizontal sockets captured by support spacing
+
+**Change / why:** Following V2 racking/lift-off, move the brace release direction sideways. Inward-facing support sockets have closed roofs/floors; the top is intended to constrain support separation. Top geometry retained, support rear interfaces open to redesign, no purchased fasteners. No further V9 clearance adjustment.
+
+**CAD:** New concept model, assembly sequence and joint section. Connected watertight components; sampled sideways assembly and top installation clear. Deliberate upward/downward brace motion and outward support motion with the top fixed meet geometry. Reports do not establish coupled top-lift restraint, strength or real stiffness.
+
+**Physical:** Not printed or tested. No new print files released.
+
+**Outcome:** Candidate for discussion. Capture depends on the top remaining seated; flexing, combined lift/splay, new fit, print orientation and mirrored support/TPU arrangement remain open. [Concept review](versions/v10-side-entry-concept/REVIEW.md).
