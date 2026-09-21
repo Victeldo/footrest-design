@@ -1,14 +1,14 @@
-# Current stage: V10A user-requested prototype STL release
+# Current stage: V10A — user-reported assembled stability improvement
 
-The last physically tested assembly is V9 bracket V2. It was more stable than V9 but still racked and its upper channels slid upward off the T rails. No subsequent fix has passed an assembled test. No load rating exists.
+On 2026-09-21 the user reported that V10 largely resolves racking and feels much more stable. This is qualitative assembled feedback for the supplied V10A release, not a quantified strength or durability pass. V9/V2 failed racking/retention previously. No load rating exists.
 
 ## Current direction agreed with user
 
 Keep the top where practical; allow support rear interfaces and brace to change. Stay fully printable, without purchased fasteners. Investigate horizontal brace tongues captured between inward-facing support sockets, with the top fitted last. Do not hard-constrain the design to existing support prints or resume tightening V9.
 
-[Concept and evidence](versions/v10-side-entry-concept/REVIEW.md). The new sockets block vertical tongue movement nominally; the top blocks outward support translation only while held seated in the checked model. Combined top lift/support splay, flexibility, strength, printability and mirrored TPU arrangement are unresolved. V10A print-oriented STLs are now released on explicit user request; no new physical results exist. See versions/v10a-print-prototype/START_HERE.md.
+[Concept and evidence](versions/v10-side-entry-concept/REVIEW.md). The new sockets block vertical tongue movement nominally; the top blocks outward support translation only while held seated in the checked model. Combined top lift/support splay, flexibility, strength, printability and mirrored TPU arrangement are unresolved. V10A print-oriented STLs are released; initial assembled stability feedback is positive. See versions/v10a-print-prototype/START_HERE.md.
 
-The next decision is whether the assembly reliably closes those remaining motions without adding awkward mechanisms. Do not confuse a fixed-top CAD obstruction with proof that the actual unlatched top cannot lift.
+Preserve the current geometry. Next establish whether intentional disassembly/reassembly remains comfortable and the improved stability persists. Top lift, measured loads, sustained behavior, cycling and TPU installation were not reported. Do not infer they passed.
 
 ## Preserved constraints
 

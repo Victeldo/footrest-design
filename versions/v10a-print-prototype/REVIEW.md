@@ -9,3 +9,11 @@ Checks run: source rendered with OpenSCAD; single watertight consistently wound 
 Physical evidence: none for this new design. Prior V9C clearance success is not a new socket fit pass. Top-lift and racking remain unresolved. No claim of structural acceptance. TPU handedness is pending.
 
 Release: full STLs supplied on user's request as a prototype; recommend one support plus brace first to limit wasted material. Next test is local seating/removal, then assembled racking and top lift. See START_HERE.md.
+
+## Physical update — 2026-09-21
+
+User reports: “v10 seems to have solved racking for the most part” and “it feels way more stable.” Recorded against the supplied V10A print release, called V10 by the user; exact file hashes of printed parts were not reconfirmed.
+
+This is qualitative assembled stability improvement relative to V9/V2. It supports continuing with the side-entry mechanism rather than another redesign. It is consistent with improved vertical restraint at brace joints, but does not isolate the effects of changed fit, socket geometry or support stiffness.
+
+Not reported: applied force, residual displacement, whether the top lifts, measured loading, sustained load duration, assembly/removal cycling, TPU installation or damage inspection. Do not infer these passed. Next check: comfortable intentional disassembly/reassembly and retention of the improved seating/stability. No geometry changed for this result.

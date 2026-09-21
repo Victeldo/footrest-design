@@ -153,3 +153,7 @@ Design sequence is reconstructed from artifacts and conversation. Outcomes inclu
 **Physical:** Untested. New rectangular socket fit, combined top lift/racking and TPU handedness remain unresolved. This prototype release does not supersede V9/V2 failure evidence with a claimed pass.
 
 [Files and instructions](versions/v10a-print-prototype/START_HERE.md).
+
+## 2026-09-21 — V10/V10A assembled feedback
+
+User reports racking mostly resolved and assembly feels much more stable. Qualitative full-assembly improvement; no measured force/displacement, load-capacity or durability result. Preserve geometry for further evaluation. Added physical result to V10A review; no new design version.
