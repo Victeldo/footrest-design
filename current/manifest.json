@@ -1,0 +1,71 @@
+{
+  "assembly": "V10A supports/brace; retained V7 top and V6A-derived shoes",
+  "files": [
+    {
+      "file": "PLA/01_top_PRINT_1.stl",
+      "quantity": 1,
+      "source": "versions/v9-full/artifacts/V9_top_PLA_PROTOTYPE.stl",
+      "sha256": "706699e539870004e3c688cc97e2ace376ee9b4a3f993822688cdda897159dd0",
+      "size_mm": [
+        240.0,
+        170.0,
+        24.0
+      ]
+    },
+    {
+      "file": "PLA/02_left_support_PRINT_1.stl",
+      "quantity": 1,
+      "source": "versions/v10a-print-prototype/V10A_left_PLA_PROTOTYPE.stl",
+      "sha256": "fd781bdc5e07bfba27717268d539984d5d5bbd2b86fd128a227938e764dd871f",
+      "size_mm": [
+        163.0,
+        230.0,
+        23.5
+      ]
+    },
+    {
+      "file": "PLA/03_right_support_PRINT_1.stl",
+      "quantity": 1,
+      "source": "versions/v10a-print-prototype/V10A_right_PLA_PROTOTYPE.stl",
+      "sha256": "1b1b0691ef6924b449bcdb4e15310d1934f7837fb3ebc4b0be6bb6b273195223",
+      "size_mm": [
+        163.0,
+        230.0,
+        23.5
+      ]
+    },
+    {
+      "file": "PLA/04_rear_brace_PRINT_1.stl",
+      "quantity": 1,
+      "source": "versions/v10a-print-prototype/V10A_brace_PLA_PROTOTYPE.stl",
+      "sha256": "59fabd9b26ca18ad4426d7a0f21a2bf97556d65b24d9aa0e40b554f4b8137a9e",
+      "size_mm": [
+        180.0,
+        180.0,
+        8.0
+      ]
+    },
+    {
+      "file": "TPU95A/05_foot_A_PRINT_2.stl",
+      "quantity": 2,
+      "source": "versions/v9-full/artifacts/V9_foot_left_TPU95A.stl",
+      "sha256": "0564932e8217865dc1c59952be1c6285b05a0f60d167e52a46f5836f2830eb76",
+      "size_mm": [
+        29.799998474121537,
+        11.099999618530717,
+        16.0
+      ]
+    },
+    {
+      "file": "TPU95A/06_foot_B_PRINT_2.stl",
+      "quantity": 2,
+      "source": "versions/v9-full/artifacts/V9_foot_right_TPU95A.stl",
+      "sha256": "59fd5ec0566313c1a1988d3648b52849b775d0886ccec23744407921f84e13fe",
+      "size_mm": [
+        29.799999237060547,
+        11.099999618530717,
+        16.0
+      ]
+    }
+  ]
+}

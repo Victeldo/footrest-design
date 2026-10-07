@@ -1,5 +1,7 @@
 # Flat-pack footrest — design and experiment history
 
+**Looking for the parts to print? Start in [current/](current/README.md): the complete current set, materials, quantities and foot placement.**
+
 Local engineering repository reconstructed on 2026-09-20 from supplied files, workspace artifacts and the user messages in this conversation. Each available design stage has its own chronological commit and tag. Commits use their actual creation time; they are not the original design timestamps.
 
 Read [STATUS.md](STATUS.md) before using any print files, then [CHANGELOG.md](CHANGELOG.md). Each directory under `versions/` contains preserved artifacts and a `REVIEW.md` explaining the change, reason, evidence, outcome and next question. [CONTRIBUTING.md](CONTRIBUTING.md) sets the process for future iterations.

@@ -17,3 +17,7 @@ A1 256 mm cube, PLA structure, replaceable TPU95A shoes, seated use, no standing
 ## Latest packability observation
 
 After fully seating the top, the user reports straight withdrawal feels locked and angling helps. This is not intentional latch behavior. Easy disassembly remains unresolved. Diagnose the actual binding location before changing the calibrated sockets, and avoid forceful extraction.
+
+## Complete print set
+
+Use [current/README.md](current/README.md) for all required parts and quantities. On 2026-10-07 the existing two A/two B shoes were verified geometrically on the mirrored V10A supports. No new foot geometry or physical fit result is implied.

@@ -161,3 +161,7 @@ User reports racking mostly resolved and assembly feels much more stable. Qualit
 ## 2026-09-21 — fully seated top binds during removal
 
 V10A user feedback: fully seated top resists straight extraction; angling helps. No designed latch exists. Stability improvement remains reported, but easy disassembly is not established. Record binding/alignment/friction as possible causes, pending localization; no design change made.
+
+## 2026-10-07 — complete current print set
+
+Added current/ with unchanged V10A supports/brace, retained V7 top and V6A-derived TPU shoes. Quantities are encoded in filenames and documented. Confirmed existing A/B feet can occupy all four mirrored-support positions with proper rotations/translations and zero nominal structural interference. Two A plus two B; no new geometry. Physical fit on V10A remains unreported. Provenance hashes link every current print to its historical source.

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-07",
+  "method": "All existing exported meshes, four proper rotation/translation placements; no mirrored STL required. Nominal rigid interference checks only; physical fitting still required.",
+  "positions": {
+    "left_front": {
+      "variant": "A",
+      "proper_rigid_transform": [
+        [
+          0.0,
+          -1.0,
+          0.0,
+          27.55
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          8.2
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "unintended_overlap_mm3": 0.0
+    },
+    "left_rear": {
+      "variant": "B",
+      "proper_rigid_transform": [
+        [
+          0.0,
+          -1.0,
+          0.0,
+          27.55
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          132.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "unintended_overlap_mm3": 0.0
+    },
+    "right_front": {
+      "variant": "B",
+      "proper_rigid_transform": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          212.45
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "unintended_overlap_mm3": 0.0
+    },
+    "right_rear": {
+      "variant": "A",
+      "proper_rigid_transform": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          212.45
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          161.8
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "unintended_overlap_mm3": 0.0
+    }
+  }
+}

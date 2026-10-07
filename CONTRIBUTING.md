@@ -23,3 +23,5 @@ Keep source, delivered meshes, checks and physical results traceable. A passing 
 - Print status and next decision:
 
 No current full footrest load rating exists. The 200 N target is a design/check objective, not a measured safe capacity. The rear joint must constrain racking, not merely stay attached.
+
+Maintain `current/` as the complete selected prototype print set. Update its README and provenance manifest when changing a selected part; include retained parts from older versions so users do not need to hunt through history. Never substitute an older incompatible joint system.
